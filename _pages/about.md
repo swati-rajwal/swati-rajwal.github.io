@@ -17,3 +17,6 @@ My research interests are at the intersection of natural language processing (NL
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my latest manuscripts on <a href="{{site.author.googlescholar}} target="_blank">Google Scholar profile</a>.</div>
 {% endif %}
+
+# Outside of work
+I am big country music fan and outside of work, you can find me playing guitar or jamming with my friends.
