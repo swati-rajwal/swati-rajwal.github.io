@@ -12,4 +12,8 @@ I am a Doctoral student in Computer Science & Informatics at Emory University wi
 I finished my Masters and Bachelors in Computer Science from NSUT and IGDTUW, respectively. My Masters degree was supported by AICTE PG Scholarship by Govt. of India and I received a [Vice-Chancellor's Gold Medal](https://www.linkedin.com/feed/update/urn:li:activity:7108505289506627584/) for my academic performance. My industry experience ranges from being a Software Engineer at Eaton Corp. to an R&D Senior Analyst at Accenture Technology Lab.
 
 # Research Summary
-My research interests are at the intersection of natural language processing (NLP), applied machine learning, social media mining, and the application of innovations in these fields to solve problems in the broader health domain. My research primarily focuses on developing data-centric solutions that utilize biomedical natural language data from various domains such as social media, clinical notes and medical literature. 
+My research interests are at the intersection of natural language processing (NLP), applied machine learning, social media mining, and the application of innovations in these fields to solve problems in the broader health domain. My research primarily focuses on developing data-centric solutions that utilize biomedical natural language data from various domains such as social media, clinical notes and medical literature.
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
