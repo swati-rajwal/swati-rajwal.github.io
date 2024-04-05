@@ -51,5 +51,33 @@ author_profile: true
   </tr>
   <!-- Ensure there's a gap after each entry for clarity -->
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
+  
   <!-- Repeat for each publication -->
+
+  
+  <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
+  <!-- Repeat for each publication -->
+  <tr style="border: none; background-color: #FFFFFF;">
+    <!-- Image Column -->
+    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
+      <img src="/images/lihisto_proj.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+    </td>
+    <!-- Publication Info Column -->
+    <td style="width: 70%; border: none;">
+      <h3 style="margin: 0;">LiHiSTO: a comprehensive list of Hindi stopwords</h3>
+      <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b></p>
+      <p style="margin: 5px 0; color: #555;">Multimedia Tools Application, Springer, 2024</p>
+      <div class="publication-buttons" style="margin-top: 10px;">
+        <a href="https://link.springer.com/article/10.1007/s11042-023-17205-9" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+        <a href="https://github.com/semicolon123/LiHiSTO" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
+        <a href="https://pypi.org/project/lihisto/" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">Python Package</a>
+      </div>
+    </td>
+  </tr>
+  <!-- Ensure there's a gap after each entry for clarity -->
+  <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
+
+  <!-- Repeat for each publication -->
+
+  
 </table>
