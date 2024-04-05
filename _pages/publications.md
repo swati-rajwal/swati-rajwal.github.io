@@ -78,6 +78,29 @@ author_profile: true
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
 
   <!-- Repeat for each publication -->
+  
+<tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
+  <!-- Repeat for each publication -->
+  <tr style="border: none; background-color: #FFFFFF;">
+    <!-- Image Column -->
+    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
+      <img src="/images/proj_migraine.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+    </td>
+    <!-- Publication Info Column -->
+    <td style="width: 70%; border: none;">
+      <h3 style="margin: 0;">Generalizable Natural Language Processing Framework for Migraine Reporting from Social Media</h3>
+      <p style="margin: 5px 0; color: #555;">Yuting Guo, <b>Swati Rajwal</b>, et al.</p>
+      <p style="margin: 5px 0; color: #555;">AMIA Jt Summits Transl Sci Proc, 2023</p>
+      <div class="publication-buttons" style="margin-top: 10px;">
+        <a href="https://pubmed.ncbi.nlm.nih.gov/37350878/" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+        <a href="https://github.com/swati-rajwal/NLP_migraine" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
+      </div>
+    </td>
+  </tr>
+  <!-- Ensure there's a gap after each entry for clarity -->
+  <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
 
+  <!-- Repeat for each publication -->
+  
   
 </table>
