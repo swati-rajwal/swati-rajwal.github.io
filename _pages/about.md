@@ -16,5 +16,9 @@ My research interests are at the intersection of natural language processing (NL
   <div class="wordwrap">You can also find my latest manuscripts on <a href="{{site.author.googlescholar}}" target="_blank">Google Scholar profile</a>.</div>
 {% endif %}
 
+# Teaching Experience
+* CS-325: Artificial Intelligence w/ Prof. Eugene Agichhtein (Emory, Spring 2024)
+* ICCSC-05: Data Structures w/ Prof. Pinaki Chakraborty (NSUT, Fall 2021)
+
 # Outside of work
-I am big country music fan and outside of work, you can find me playing guitar or jamming with my friends.
+I am a big country music fan and outside of work, you can find me playing guitar or jamming with my friends.
