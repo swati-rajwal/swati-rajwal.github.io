@@ -15,7 +15,7 @@ author_profile: true
 .news-item {
   margin: 10px;
   text-align: center;
-  width: calc(25% - 20px); /* Adjusted width to fit 4 items in one row */
+  width: calc(25% - 20px); /* Adjusted width to fit 4 items in one row on desktop */
   height: 300px; /* Adjusted height, may need to be modified based on your preference */
   display: flex;
   flex-direction: column;
@@ -38,6 +38,30 @@ author_profile: true
   font-size: 13px; /* Reduced font size for the caption */
 }
 
+/* Responsive adjustments for screens smaller than 768px (e.g., mobile devices) */
+@media (max-width: 768px) {
+  .news-item {
+    width: calc(50% - 20px); /* Adjusts to fit 2 items in one row on smaller screens */
+    height: 200px; /* Adjusted height for smaller screens */
+  }
+  
+  .news-image {
+    height: calc(100% - 60px); /* Adjusts the image height dynamically */
+  }
+
+  .caption {
+    height: 60px; /* Adjusted height for better readability on smaller screens */
+    font-size: 11px; /* Adjusted font size for smaller screens */
+  }
+}
+
+/* Further adjustments for very small screens */
+@media (max-width: 480px) {
+  .news-item {
+    width: calc(100% - 20px); /* Full width for very small screens */
+    height: 250px; /* Adjusted height for better visibility */
+  }
+}
 </style>
 
 <div class="container">
@@ -45,7 +69,8 @@ author_profile: true
     <img src="/images/cam_exp.jpg" alt="Cambridge, August 2023" class="news-image">
     <div class="caption">Cambridge, August 2023</div>
   </div>
-   <div class="news-item">
+  <!-- Add other news items here in the same format -->
+  <div class="news-item">
     <img src="/images/medal.jpeg" alt="Vice Chancellor Gold Medal" class="news-image">
     <div class="caption">Vice Chancellor’s Gold Medal (received by Mother), 2023</div>
   </div>
@@ -72,5 +97,4 @@ author_profile: true
     <img src="/images/igdtuw.jpg" alt="IGDTUW 2014-18" class="news-image">
     <div class="caption">IGDTUW 2014-18</div>
   </div>
-    
 </div>
