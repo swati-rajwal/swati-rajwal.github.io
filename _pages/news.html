@@ -6,24 +6,45 @@ author_profile: true
 ---
 
 <style>
-/* CSS to ensure images are scaled to the same width */
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.news-item {
+  margin: 10px;
+  text-align: center;
+}
+
 .news-image {
   width: 100%;
   max-width: 300px; /* Change this value based on your needs */
   height: auto;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+}
+
+/* Responsive Images */
+@media (max-width: 600px) {
+  .news-image {
+    max-width: 100%;
+  }
 }
 </style>
 
-<h1>Latest News</h1>
-
-<h2>News Item One Title</h2>
-<img src="/images/IMG_20220914_153715.jpg" alt="News Item One Short Description" class="news-image">
-
-<h2>News Item Two Title</h2>
-<img src="/images/IMG_20220914_153715.jpg" alt="News Item Two Short Description" class="news-image">
-
-<h2>News Item Three Title</h2>
-<img src="/images/IMG_20220914_153715.jpg" alt="News Item Three Short Description" class="news-image">
+<div class="container">
+  <div class="news-item">
+    <img src="/images/IMG_20220914_153715.jpg" alt="News Item One Short Description" class="news-image">
+    <div>News Item One Title</div>
+  </div>
+  
+  <div class="news-item">
+    <img src="/images/IMG_20220914_153715.jpg" alt="News Item Two Short Description" class="news-image">
+    <div>News Item Two Title</div>
+  </div>
+  
+  <div class="news-item">
+    <img src="/images/IMG_20220914_153715.jpg" alt="News Item Three Short Description" class="news-image">
+    <div>News Item Three Title</div>
+  </div>
+</div>
