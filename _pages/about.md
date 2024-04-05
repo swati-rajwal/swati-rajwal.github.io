@@ -19,4 +19,4 @@ My research interests are at the intersection of natural language processing (NL
 * ICCSC-05: Data Structures w/ Prof. Pinaki Chakraborty (NSUT, Fall 2021)
 
 # Outside of work
-I am a big country music fan and outside of work, you can find me playing guitar or jamming with my friends.
+I am a big country music fan and outside of work, you can find me playing guitar or jamming with my friends. I also love hiking.
