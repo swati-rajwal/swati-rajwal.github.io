@@ -16,7 +16,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: "files/Swati_Rajwal_CV (2).pdf"
+    # url: /cv/
 
   - title: "News"
     url: /news/
