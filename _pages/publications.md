@@ -31,8 +31,8 @@ author_profile: true
   <!-- Repeat for each publication -->
   <div class="publication-item" style="display: flex; margin-bottom: 20px;">
     <!-- Publication Image -->
-    <div class="publication-thumbnail" style="flex: 0 0 300px; /* Fixed size for image */ margin-right: 20px;">
-      <img src="/images/sn_proj.png" alt="Publication Thumbnail" style="width: 300px; height: auto;">
+    <div class="publication-thumbnail" style="flex: 0 0 100px; /* Fixed size for image */ margin-right: 20px;">
+      <img src="/images/sn_proj.png" alt="Publication Thumbnail" style="width: 100px; height: auto;">
     </div>
     <div class="publication-info" style="flex: 1;">
       <h3 style="margin: 0;">Emerging Trends of Self-Harm Using Sodium Nitrite in an Online Suicide Community: An Observational Study Using Natural Language Processing Analysis</h3>
