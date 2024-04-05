@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Swati Rajwal"
 title_separator          : "-"
-# name                     : &name ""
+name                     : &name "Swati Rajwal"
 description              : &description "PhD Student, Emory University"
 url                      : https://swati-rajwal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "swati-rajwal/swati-rajwal.github.io/"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Swati Rajwal"
+  # name             : "Swati Rajwal"
   pronouns         : "She/Her"  
   bio              : "PhD Student, Emory University"
   location         : "Georgia, USA"
