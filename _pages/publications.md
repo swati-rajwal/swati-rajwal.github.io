@@ -12,12 +12,14 @@ author_profile: true
 <br>
 
 <!-- Publications Table -->
-<table style="width:100%; border-collapse: collapse;">
+<table style="width:100%; border-collapse: collapse; border: none;">
   <!-- Publication Entry -->
-  <tr>
-    <!-- Publication Image -->
-    <td style="width: 300px; padding-right: 20px; border: none;">
-      <img src="/images/bc_proj.png" alt="Publication Thumbnail" style="width: 300px; height: auto;">
+  <tr style="border: none; background-color: #FFFFFF; /* Ensure there's a gap between rows */">
+    <td style="padding: 20px 0; border: none;">
+      <!-- Publication Image -->
+      <div style="width: 300px; padding-right: 20px;">
+        <img src="/images/bc_proj.png" alt="Publication Thumbnail" style="width: 100%; height: auto;">
+      </div>
     </td>
     <!-- Publication Info -->
     <td style="border: none;">
@@ -30,11 +32,15 @@ author_profile: true
       </div>
     </td>
   </tr>
+  <!-- Add additional space between publications -->
+  <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
   <!-- Repeat for each publication -->
-  <tr>
-    <!-- Publication Image -->
-    <td style="width: 300px; padding-right: 20px; border: none;">
-      <img src="/images/sn_proj.png" alt="Publication Thumbnail" style="width: 300px; height: auto;">
+  <tr style="border: none; background-color: #FFFFFF;">
+    <td style="padding: 20px 0; border: none;">
+      <!-- Publication Image -->
+      <div style="width: 300px; padding-right: 20px;">
+        <img src="/images/sn_proj.png" alt="Publication Thumbnail" style="width: 100%; height: auto;">
+      </div>
     </td>
     <!-- Publication Info -->
     <td style="border: none;">
@@ -47,5 +53,7 @@ author_profile: true
       </div>
     </td>
   </tr>
+  <!-- Ensure there's a gap after each entry for clarity -->
+  <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
   <!-- Repeat for each publication -->
 </table>
