@@ -18,7 +18,7 @@ author_profile: true
     <td style="padding: 20px 0; border: none;">
       <!-- Flexible Image Container -->
       <div style="padding-right: 20px; text-align: center; width: auto;">
-        <img src="/images/bc_proj.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+        <img src="/images/bc_proj.png" alt="Publication Thumbnail" style="max-width: 40%; height: auto;">
       </div>
     </td>
     <!-- Publication Info -->
@@ -39,7 +39,7 @@ author_profile: true
     <td style="padding: 20px 0; border: none;">
       <!-- Flexible Image Container -->
       <div style="padding-right: 20px; text-align: center; width: auto;">
-        <img src="/images/sn_proj.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+        <img src="/images/sn_proj.png" alt="Publication Thumbnail" style="max-width: 40%; height: auto;">
       </div>
     </td>
     <!-- Publication Info -->
