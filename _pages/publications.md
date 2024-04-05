@@ -14,11 +14,11 @@ author_profile: true
 <!-- Publications Table -->
 <table style="width:100%; border-collapse: collapse; border: none;">
   <!-- Publication Entry -->
-  <tr style="border: none; background-color: #FFFFFF; /* Ensure there's a gap between rows */">
+  <tr style="border: none; background-color: #FFFFFF;">
     <td style="padding: 20px 0; border: none;">
-      <!-- Publication Image -->
-      <div style="width: 300px; padding-right: 20px;">
-        <img src="/images/bc_proj.png" alt="Publication Thumbnail" style="width: 100%; height: auto;">
+      <!-- Flexible Image Container -->
+      <div style="padding-right: 20px; text-align: center; width: auto;">
+        <img src="/images/bc_proj.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
       </div>
     </td>
     <!-- Publication Info -->
@@ -37,9 +37,9 @@ author_profile: true
   <!-- Repeat for each publication -->
   <tr style="border: none; background-color: #FFFFFF;">
     <td style="padding: 20px 0; border: none;">
-      <!-- Publication Image -->
-      <div style="width: 300px; padding-right: 20px;">
-        <img src="/images/sn_proj.png" alt="Publication Thumbnail" style="width: 100%; height: auto;">
+      <!-- Flexible Image Container -->
+      <div style="padding-right: 20px; text-align: center; width: auto;">
+        <img src="/images/sn_proj.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
       </div>
     </td>
     <!-- Publication Info -->
