@@ -9,44 +9,85 @@ author_profile: true
 <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}" target="_blank">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<br>
+<style>
+.publication-list {
+  width: 100%;
+}
+
+.publication-item {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  margin-bottom: 20px;
+}
+
+.publication-thumbnail {
+  display: table-cell;
+  width: 100px; /* Fixed width for the thumbnail */
+  padding-right: 20px; /* Spacing between image and text */
+  vertical-align: top; /* Align the content to the top */
+}
+
+.publication-thumbnail img {
+  width: 100%;
+  height: auto;
+}
+
+.publication-info {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.btn {
+  text-decoration: none;
+  background-color: #007bff;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-right: 5px;
+  margin-top: 10px;
+}
+
+.btn:last-child {
+  margin-right: 0;
+}
+</style>
+
 <div class="publication-list">
   <!-- Publication Entry -->
-  <div class="publication-item" style="display: flex; margin-bottom: 20px;">
+  <div class="publication-item">
     <!-- Publication Image -->
-    <div class="publication-thumbnail" style="flex: 0 0 300px; /* Fixed size for image */ margin-right: 20px;">
-      <img src="/images/bc_proj.png" alt="Publication Thumbnail" style="width: 300px; height: auto;">
+    <div class="publication-thumbnail">
+      <img src="/images/bc_proj.png" alt="Publication Thumbnail">
     </div>
-    <div class="publication-info" style="flex: 1;">
-      <h3 style="margin: 0;">Unveiling Voices: Identification of Concerns in a Social Media Breast Cancer Cohort via Natural Language Processing</h3>
-      <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b>, Avinash Kumar Pandey, Zhishuo Han, Abeed Sarker</p>
-      <p style="margin: 5px 0; color: #555;">CL4HEALTH Workshop within LREC-COLING, 2024</p>
-      <div class="publication-buttons" style="margin-top: 10px;">
-        <a href="https://github.com/swati-rajwal/BreastCancer_tweets_project" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
-        <a href="https://github.com/swati-rajwal/BreastCancer_tweets_project" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
+    <div class="publication-info">
+      <h3>GEO: Generative Engine Optimization</h3>
+      <p>Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik R Narasimhan, and 1 more author</p>
+      <p>arXiv preprint arXiv:2311.09735, 2023</p>
+      <div>
+        <a href="link-to-abstract" class="btn">ABSTRACT</a>
+        <a href="link-to-bibtex" class="btn">BIB</a>
+        <a href="link-to-paper" class="btn">PAPER</a>
       </div>
     </div>
   </div>
-<br>
-  <!-- Repeat for each publication -->
-  <div class="publication-item" style="display: flex; margin-bottom: 20px;">
+
+  <!-- Repeat the block inside .publication-list for each publication -->
+  <div class="publication-item">
     <!-- Publication Image -->
-    <div class="publication-thumbnail" style="flex: 0 0 100px; /* Fixed size for image */ margin-right: 20px;">
-      <img src="/images/sn_proj.png" alt="Publication Thumbnail" style="width: 100px; height: auto;">
+    <div class="publication-thumbnail">
+      <img src="/images/sn_proj.png" alt="Publication Thumbnail">
     </div>
-    <div class="publication-info" style="flex: 1;">
-      <h3 style="margin: 0;">Emerging Trends of Self-Harm Using Sodium Nitrite in an Online Suicide Community: An Observational Study Using Natural Language Processing Analysis</h3>
-      <p style="margin: 5px 0; color: #555;">Sudeshna Das, Drew Walker, <b>Swati Rajwal</b>, et al.</p>
-      <p style="margin: 5px 0; color: #555;">JMIR Mental Health, 2024</p>
-      <div class="publication-buttons" style="margin-top: 10px;">
-        <a href="https://doi.org/10.2196/53730" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
-        <a href="https://github.com/das-sudeshna/sodium-nitrite" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
+    <div class="publication-info">
+      <h3>GEO: Generative Engine Optimization</h3>
+      <p>Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik R Narasimhan, and 1 more author</p>
+      <p>arXiv preprint arXiv:2311.09735, 2023</p>
+      <div>
+        <a href="link-to-abstract" class="btn">ABSTRACT</a>
+        <a href="link-to-bibtex" class="btn">BIB</a>
+        <a href="link-to-paper" class="btn">PAPER</a>
       </div>
     </div>
   </div>
-  <!-- Repeat for each publication -->
-  <!-- Repeat for each publication -->
-  <!-- Repeat for each publication -->
-
-
 </div>
