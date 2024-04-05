@@ -15,14 +15,12 @@ author_profile: true
 <table style="width:100%; border-collapse: collapse; border: none;">
   <!-- Publication Entry -->
   <tr style="border: none; background-color: #FFFFFF;">
-    <td style="padding: 20px 0; border: none;">
-      <!-- Flexible Image Container -->
-      <div style="padding-right: 20px; text-align: center; width: auto;">
-        <img src="/images/bc_proj.png" alt="Publication Thumbnail" style="max-width: 40%; height: auto;">
-      </div>
+    <!-- Image Column -->
+    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
+      <img src="/images/bc_proj.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
     </td>
-    <!-- Publication Info -->
-    <td style="border: none;">
+    <!-- Publication Info Column -->
+    <td style="width: 70%; border: none;">
       <h3 style="margin: 0;">Unveiling Voices: Identification of Concerns in a Social Media Breast Cancer Cohort via Natural Language Processing</h3>
       <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b>, Avinash Kumar Pandey, Zhishuo Han, Abeed Sarker</p>
       <p style="margin: 5px 0; color: #555;">CL4HEALTH Workshop within LREC-COLING, 2024</p>
@@ -36,14 +34,12 @@ author_profile: true
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
   <!-- Repeat for each publication -->
   <tr style="border: none; background-color: #FFFFFF;">
-    <td style="padding: 20px 0; border: none;">
-      <!-- Flexible Image Container -->
-      <div style="padding-right: 20px; text-align: center; width: auto;">
-        <img src="/images/sn_proj.png" alt="Publication Thumbnail" style="max-width: 40%; height: auto;">
-      </div>
+    <!-- Image Column -->
+    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
+      <img src="/images/sn_proj.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
     </td>
-    <!-- Publication Info -->
-    <td style="border: none;">
+    <!-- Publication Info Column -->
+    <td style="width: 70%; border: none;">
       <h3 style="margin: 0;">Emerging Trends of Self-Harm Using Sodium Nitrite in an Online Suicide Community: An Observational Study Using Natural Language Processing Analysis</h3>
       <p style="margin: 5px 0; color: #555;">Sudeshna Das, Drew Walker, <b>Swati Rajwal</b>, et al.</p>
       <p style="margin: 5px 0; color: #555;">JMIR Mental Health, 2024</p>
