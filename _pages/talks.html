@@ -7,16 +7,17 @@ author_profile: true
 
 <style>
 .video-wrapper {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around; /* Centers the videos and adds space around them */
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: space-around !important; /* Centers the videos and adds space around them */
+  align-items: flex-start !important; /* Aligns items at the start of the container */
 }
 
 .video-wrapper iframe {
-  flex: 0 1 30%; /* Allows the iframe to grow and shrink but starts at 30% width */
-  margin: 10px; /* Adds space around each video */
-  height: auto; /* Maintains aspect ratio */
-  aspect-ratio: 16 / 9; /* Maintains a 16:9 aspect ratio for each video */
+  width: 30% !important; /* Sets the width of iframes to 30% of their container's width */
+  margin: 10px !important; /* Adds space around each video */
+  height: auto !important; /* Allows the height to adjust automatically */
+  aspect-ratio: 16 / 9 !important; /* Maintains a 16:9 aspect ratio for each video */
 }
 </style>
 
