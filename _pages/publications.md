@@ -13,7 +13,29 @@ author_profile: true
 
 <!-- Publications Table -->
 <table style="width:100%; border-collapse: collapse; border: none;">
-  <!-- Publication Entry -->
+  
+  <!-- First Publication Entry Below -->
+  <tr style="border: none; background-color: #FFFFFF;">
+    <!-- Image Column -->
+    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
+      <img src="/images/Picture1.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+    </td>
+    <!-- Publication Info Column -->
+    <td style="width: 70%; border: none;">
+      <h3 style="margin: 0;">Knowledge-Enhanced Few-Shot In-Context Learning for Medical Error Detection & Correction</h3>
+      <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b>, Eugene Agichtein, Abeed Sarker</p>
+      <p style="margin: 5px 0; color: #555;">MEDIQA-CORR @ NAACL-ClinicalNLP, 2024</p>
+      <div class="publication-buttons" style="margin-top: 10px;">
+        <a href="https://github.com/swati-rajwal/EM_Mixers_MEDIQA-CORR-NAACL-ClinicalNLP-2024" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+        <a href="https://github.com/swati-rajwal/EM_Mixers_MEDIQA-CORR-NAACL-ClinicalNLP-2024" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
+      </div>
+    </td>
+  </tr>
+  <!-- Add additional space between publications -->
+  <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
+  <!-- Repeat for each publication -->
+  
+  
   <tr style="border: none; background-color: #FFFFFF;">
     <!-- Image Column -->
     <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
@@ -53,8 +75,6 @@ author_profile: true
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
   
   <!-- Repeat for each publication -->
-
-  
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
   <!-- Repeat for each publication -->
   <tr style="border: none; background-color: #FFFFFF;">
