@@ -109,7 +109,7 @@ author_profile: true
     <!-- Publication Info Column -->
     <td style="width: 70%; border: none;">
       <h3 style="margin: 0;">Generalizable Natural Language Processing Framework for Migraine Reporting from Social Media</h3>
-      <p style="margin: 5px 0; color: #555;">Yuting Guo, <b>Swati Rajwal</b>, et al.</p>
+      <p style="margin: 5px 0; color: #555;">Yuting Guo, <b>Swati Rajwal</b>, Sahithi Lakamana, Chia-Chun Chiang, Paul C Menell, Adnan H Shahid, Yi-Chieh Chen Pharm D, Nikita Chhabra, Wan-Ju Chao, Chieh-Ju Chao, Todd J Schwedt, Imon Banerjee, Abeed Sarker</p>
       <p style="margin: 5px 0; color: #555;">AMIA Jt Summits Transl Sci Proc, 2023</p>
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://pubmed.ncbi.nlm.nih.gov/37350878/" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
