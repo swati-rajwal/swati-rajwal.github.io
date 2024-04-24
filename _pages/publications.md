@@ -9,8 +9,6 @@ author_profile: true
 <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}" target="_blank">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<br>
-
 <!-- Publications Table -->
 <table style="width:100%; border-collapse: collapse; border: none;">
   
