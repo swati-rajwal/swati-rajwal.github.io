@@ -22,5 +22,5 @@ main:
   - title: "News"
     url: /news/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Other Resources"
+    url: /resources/
