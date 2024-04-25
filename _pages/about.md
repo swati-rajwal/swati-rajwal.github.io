@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+news: true # includes a list of news items
 ---
 
 I am a first-year CS Ph.D. student at Emory University and recipient of the Woman in Natural Science Fellowship. Before Emory, I was a Researcher at <a href="https://neuroscience.cam.ac.uk/member/srajwal/" target="_blank">Cambridge</a> University's <a href="https://cbl-website.onrender.com/" target="_blank">Computational and Biological Learning (CBL)</a> Lab with Prof. Mancini. A bit before that, I worked as an RA at Saïd Business School (University of Oxford), supervised by <a href="https://www.research.ox.ac.uk/researchers/natalia-efremova" target="_blank">Prof. Natalia Efremova</a>.
