@@ -64,7 +64,7 @@ author_profile: true
       <p style="margin: 5px 0; color: #555;">Sudeshna Das, Drew Walker, <b>Swati Rajwal</b>, et al.</p>
       <p style="margin: 5px 0; color: #555;">JMIR Mental Health, 2024</p>
       <div class="publication-buttons" style="margin-top: 10px;">
-        <a href="https://doi.org/10.2196/53730" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+        <a href="https://mental.jmir.org/2024/1/e53730/" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
         <a href="https://github.com/das-sudeshna/sodium-nitrite" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
       </div>
     </td>
