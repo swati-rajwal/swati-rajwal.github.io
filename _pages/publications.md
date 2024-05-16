@@ -120,6 +120,32 @@ author_profile: true
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
 
   <!-- Repeat for each publication -->
+
+  <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
+  <!-- Repeat for each publication -->
+  <tr style="border: none; background-color: #FFFFFF;">
+    <!-- Image Column -->
+    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
+      <img src="/images/proj_migraine.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+    </td>
+    <!-- Publication Info Column -->
+    <td style="width: 70%; border: none;">
+      <h3 style="margin: 0;">Design of a Chatbot for Four- to Ten-Year-Old Children Based on Emotional Intelligence</h3>
+      <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b></p>
+      <p style="margin: 5px 0; color: #555;">International Conference on Innovative Computing and Communications, 2022</p>
+      <div class="publication-buttons" style="margin-top: 10px;">
+        <a href="https://link.springer.com/chapter/10.1007/978-981-19-2821-5_57" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+<a href="https://swati-rajwal.github.io/files/2022_certificate.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CERTIFICATE</a>
+      </div>
+    </td>
+  </tr>
+  <!-- Ensure there's a gap after each entry for clarity -->
+  <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
+
+  <!-- Repeat for each publication -->
+
+
+  
   
   
 </table>
