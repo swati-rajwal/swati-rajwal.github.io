@@ -112,7 +112,7 @@ author_profile: true
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://pubmed.ncbi.nlm.nih.gov/37350878/" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
         <a href="https://github.com/swati-rajwal/NLP_migraine" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
-<a href="https://github.com/swati-rajwal/swati-rajwal.github.io/files/Spring2024_Poster.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">POSTER</a>
+<a href="https://swati-rajwal.github.io/files/Spring2024_Poster.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">POSTER</a>
       </div>
     </td>
   </tr>
