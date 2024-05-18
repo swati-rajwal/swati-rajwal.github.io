@@ -15,54 +15,61 @@ author_profile: true
 .news-item {
   margin: 10px;
   text-align: center;
-  width: calc(25% - 20px); /* Adjusted width to fit 4 items in one row on desktop */
-  height: 300px; /* Adjusted height, may need to be modified based on your preference */
+  width: calc(25% - 20px);
+  height: 300px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between; /* Keeps the caption aligned at the bottom */
+  justify-content: space-between;
+}
+
+.news-item a {
+  width: 100%; /* Ensures the anchor tag fills the news-item container */
+  display: flex;
+  flex-direction: column;
+  text-decoration: none; /* Removes underline from links */
+  color: inherit; /* Inherits text color from parent */
 }
 
 .news-image {
-  width: 100%; /* Allows the image to scale to the width of .news-item */
-  height: calc(100% - 45px); /* Adjusts the height dynamically based on the .news-item height */
-  object-fit: cover; /* Ensures the image covers the area, might crop the image */
+  width: 100%;
+  height: calc(100% - 45px);
+  object-fit: cover;
   margin-bottom: 5px;
 }
 
 .caption {
-  height: 45px; /* Adjust based on the space needed for the caption */
+  height: 45px;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-size: 13px; /* Reduced font size for the caption */
+  font-size: 13px;
 }
 
-/* Responsive adjustments for screens smaller than 768px (e.g., mobile devices) */
 @media (max-width: 768px) {
   .news-item {
-    width: calc(50% - 20px); /* Adjusts to fit 2 items in one row on smaller screens */
-    height: 200px; /* Adjusted height for smaller screens */
+    width: calc(50% - 20px);
+    height: 200px;
   }
-  
+
   .news-image {
-    height: calc(100% - 60px); /* Adjusts the image height dynamically */
+    height: calc(100% - 60px);
   }
 
   .caption {
-    height: 60px; /* Adjusted height for better readability on smaller screens */
-    font-size: 11px; /* Adjusted font size for smaller screens */
+    height: 60px;
+    font-size: 11px;
   }
 }
 
-/* Further adjustments for very small screens */
 @media (max-width: 480px) {
   .news-item {
-    width: calc(100% - 20px); /* Full width for very small screens */
-    height: 250px; /* Adjusted height for better visibility */
+    width: calc(100% - 20px);
+    height: 250px;
   }
 }
 </style>
+
 
 
 <div class="container">
