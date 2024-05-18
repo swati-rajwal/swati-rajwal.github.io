@@ -23,18 +23,17 @@ author_profile: true
 }
 
 .news-item a {
-  width: 100%; /* Ensures the anchor tag fills the news-item container */
   display: flex;
   flex-direction: column;
-  text-decoration: none; /* Removes underline from links */
-  color: inherit; /* Inherits text color from parent */
+  justify-content: space-between; /* Keeps the caption aligned at the bottom */
+  height: 100%; /* Ensure the link covers the full height of the news-item */
 }
 
 .news-image {
-  width: 100%;
-  height: calc(100% - 45px);
-  object-fit: cover;
-  margin-bottom: 5px;
+  width: 100%; /* Allows the image to scale to the width of .news-item */
+  height: calc(100% - 45px); /* Adjusts the height dynamically based on the .news-item height */
+  object-fit: cover; /* Ensures the image covers the area, might crop the image */
+  margin-bottom: 5px; /* Keeps space between image and caption */
 }
 
 .caption {
