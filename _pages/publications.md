@@ -26,6 +26,7 @@ author_profile: true
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://github.com/swati-rajwal/EM_Mixers_MEDIQA-CORR-NAACL-ClinicalNLP-2024" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
         <a href="https://github.com/swati-rajwal/EM_Mixers_MEDIQA-CORR-NAACL-ClinicalNLP-2024" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
+        <a href="https://swati-rajwal.github.io/files/2024_ClinicalNLP_NAACL.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">POSTER</a>
       </div>
     </td>
   </tr>
@@ -47,6 +48,7 @@ author_profile: true
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://github.com/swati-rajwal/BreastCancer_tweets_project" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
         <a href="https://github.com/swati-rajwal/BreastCancer_tweets_project" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
+        <a href="https://swati-rajwal.github.io/files/2024_CL4Health_LREC_COLING.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PRESENTATION</a>
       </div>
     </td>
   </tr>
@@ -61,7 +63,7 @@ author_profile: true
     <!-- Publication Info Column -->
     <td style="width: 70%; border: none;">
       <h3 style="margin: 0;">Emerging Trends of Self-Harm Using Sodium Nitrite in an Online Suicide Community: An Observational Study Using Natural Language Processing Analysis</h3>
-      <p style="margin: 5px 0; color: #555;">Sudeshna Das, Drew Walker, <b>Swati Rajwal</b>, et al.</p>
+      <p style="margin: 5px 0; color: #555;">Sudeshna Das, Drew Walker, <b>Swati Rajwal</b>, Sahithi Lakamana, Steven A Sumner, Karin A Mack, Wojciech Kaczkowski, Abeed Sarker</p>
       <p style="margin: 5px 0; color: #555;">JMIR Mental Health, 2024</p>
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://mental.jmir.org/2024/1/e53730/" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
