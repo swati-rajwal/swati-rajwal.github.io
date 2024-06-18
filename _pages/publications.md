@@ -138,6 +138,8 @@ author_profile: true
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://link.springer.com/chapter/10.1007/978-981-19-2821-5_57" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
 <a href="https://swati-rajwal.github.io/files/2022_certificate.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CERTIFICATE</a>
+        
+<a href="https://swati-rajwal.github.io/files/2022_M2L Poster.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">POSTER</a>
       </div>
     </td>
   </tr>
@@ -145,7 +147,6 @@ author_profile: true
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
 
   <!-- Repeat for each publication -->
-
 
   
   
