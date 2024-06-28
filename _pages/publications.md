@@ -24,7 +24,7 @@ author_profile: true
       <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b>, Eugene Agichtein, Abeed Sarker</p>
       <p style="margin: 5px 0; color: #555;">MEDIQA-CORR @ NAACL-ClinicalNLP, 2024</p>
       <div class="publication-buttons" style="margin-top: 10px;">
-        <a href="https://github.com/swati-rajwal/EM_Mixers_MEDIQA-CORR-NAACL-ClinicalNLP-2024" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+        <a href="https://aclanthology.org/2024.clinicalnlp-1.56/" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
         <a href="https://github.com/swati-rajwal/EM_Mixers_MEDIQA-CORR-NAACL-ClinicalNLP-2024" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
         <a href="https://swati-rajwal.github.io/files/2024_ClinicalNLP_NAACL.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">POSTER</a>
       </div>
