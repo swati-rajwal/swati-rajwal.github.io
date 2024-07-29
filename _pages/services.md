@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Services"
+title: "Volunteering Services"
 permalink: /services/
 author_profile: true
 ---
