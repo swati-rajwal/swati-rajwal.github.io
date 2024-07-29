@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am pursuing a CS Ph.D. at Emory University and recipient of the Woman in Natural Science Fellowship. Before Emory, I was a Researcher at <a href="https://neuroscience.cam.ac.uk/member/srajwal/" target="_blank">Cambridge</a> University's <a href="https://cbl-website.onrender.com/" target="_blank">Computational and Biological Learning (CBL)</a> Lab with Prof. Mancini. I also worked as an RA at Saïd Business School (Oxford University) with <a href="https://www.research.ox.ac.uk/researchers/natalia-efremova" target="_blank">Prof. Natalia Efremova</a>.
+I am pursuing a CS Ph.D. at Emory University and recipient of the Woman in Natural Science Fellowship. Before Emory, I was a Researcher at <a href="[https://neuroscience.cam.ac.uk/member/srajwal/](https://womeninneuroscience.wixsite.com/winuk/post/bridging-brains-and-bytes-a-computer-scientist-s-role-in-neuroscience)" target="_blank">Cambridge</a> University's <a href="https://cbl-website.onrender.com/" target="_blank">Computational and Biological Learning (CBL)</a> Lab with Prof. Mancini. I also worked as an RA at Saïd Business School (Oxford University) with <a href="https://www.research.ox.ac.uk/researchers/natalia-efremova" target="_blank">Prof. Natalia Efremova</a>.
 
 My Master's at NSUT was supported by the AICTE PG Scholarship by Govt. of India and I received a <a href="https://www.linkedin.com/feed/update/urn:li:activity:7108505289506627584/" target="_blank">Vice-Chancellor's Gold Medal</a> for academic excellence. My industry experience ranges from being a Software Engineer at Eaton Corp. to an R&D Senior Analyst at Accenture Technology Lab.
 
