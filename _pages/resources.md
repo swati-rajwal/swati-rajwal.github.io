@@ -17,3 +17,14 @@ Here are the ones I have written:
 
 1. The do's & don'ts of writing a research request email: <a href="https://dl.acm.org/doi/abs/10.1145/3538535" target="_blank">Article in XRDS ACM</a>
 2. The Truth About Multitasking in Humans: Shattering the illusion of parallelism: <a href="https://ieeexplore.ieee.org/abstract/document/9770037" target="_blank">Article in IEEE Women in Engineering</a>
+
+Here are some virtual workshops I organized:
+<div class="videos" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px;">
+  <iframe width="480" height="401" src="https://www.youtube.com/embed/Vxsq23CL87k?si=yNYx4CoU1dX5xzId" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/KV4oT8mDrFM?si=zzDw7sbRnXmr2Hxg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/zvELCo4d_Tw?si=XXUZmw2p7NlaNJMy" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/Lyow3E9xWb0?si=5FE5AgjQUFCaJPiI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/jzroRTG2FS0?si=GVuWPbARR9_45Ol9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/UzHPYRGWlXI?si=vTFbKg_eTUY6MPJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/hpQga6tGTLY?si=Rk9jm9UtLg4jovY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
