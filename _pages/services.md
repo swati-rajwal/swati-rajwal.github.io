@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-1. Manuscript Reviewer at:
+1. <span class="label label-success" style="background-color: #5cb85c; display: inline; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #ffffff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;">Manuscript Reviewer</span> at
    * Journal of the American Medical Informatics Association (JAMIA) 2024
    * (Co-reviewer) IEEE BIBM 2024
    * MEDIQA-CORR at ClinicalNLP (NAACL) 2024
