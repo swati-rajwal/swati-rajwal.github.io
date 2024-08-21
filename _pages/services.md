@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-1. <span class="label label-success" style="background-color: #5cb85c; display: inline; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #ffffff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;">Manuscript Reviewer</span> at
+1. <span class="label label-success" style="background-color: #007bff; display: inline; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #ffffff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;">Manuscript Reviewer</span> at
    * Journal of the American Medical Informatics Association (JAMIA) 2024
    * (Co-reviewer) IEEE BIBM 2024
    * MEDIQA-CORR at ClinicalNLP (NAACL) 2024
@@ -19,3 +19,8 @@ author_profile: true
     * <a href="https://x.com/SwatiRajwal/status/1751056567510691906" target="_blank">AnitaB.org 2023</a>
     * Women in Big Data 2024
     * Emory University's Association for Women in Science (AWIS) 2024
+
+# Teaching Experience
+* CS-534: Machine Learning w/ Prof. Eugene Agichtein (Emory, Fall 2024)
+* CS-325: Artificial Intelligence w/ Prof. Eugene Agichtein (Emory, Spring 2024)
+* ICCSC-05: Data Structures w/ Prof. Pinaki Chakraborty (NSUT, Fall 2021)
