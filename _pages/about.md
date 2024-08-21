@@ -13,10 +13,7 @@ My Master's at NSUT was supported by the AICTE PG Scholarship by Govt. of India 
 # Research Summary
 My research interests are at the intersection of natural language processing (NLP), applied machine learning, social media mining, and application in the broader health domain. Take a look at my publications <a href="https://swati-rajwal.github.io/publications/" target="_blank">here</a> or at <a href="https://scholar.google.com/citations?user=6AfEraYAAAAJ&hl=en&inst=15365353816232672843" target="_blank">Google Scholar</a>
 
-# Teaching Experience
-* CS-534: Machine Learning w/ Prof. Eugene Agichtein (Emory, Fall 2024)
-* CS-325: Artificial Intelligence w/ Prof. Eugene Agichtein (Emory, Spring 2024)
-* ICCSC-05: Data Structures w/ Prof. Pinaki Chakraborty (NSUT, Fall 2021)
-
 # Outside of work
 I originally hail from a beautiful village in Himachal Pradesh, India. I'm a big country music fan and outside of work, you can find me <a href="https://www.youtube.com/watch?v=cgm9iGAupL0" target="_blank">jamming</a> with my friends or attending a <a href="https://www.youtube.com/shorts/kZzM2gNb-6c" target="_blank">musical concert</a>.
+
+# Latest News
