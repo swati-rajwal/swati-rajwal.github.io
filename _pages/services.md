@@ -18,7 +18,7 @@ author_profile: true
 6. <span class="label label-success" style="background-color: #007bff; display: inline; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #ffffff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;">Mentor</span> at:
     * <a href="https://rewritingthecode.org/member-story/meet-swati/" target="_blank">Rewriting the Code</a>
     * <a href="https://x.com/SwatiRajwal/status/1751056567510691906" target="_blank">AnitaB.org 2023</a>
-    * Women in Big Data 2024
+    * Women in Big Data <a href="https://swati-rajwal.github.io/files/2024_WiBD_August_Mentorship.pdf" target="_blank">Aug. 2024</a>
     * Emory University's Association for Women in Science (AWIS) 2024
 
 # Teaching Experience
