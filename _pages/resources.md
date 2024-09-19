@@ -12,6 +12,7 @@ author_profile: true
 3. Tips on admission: <a href="https://maria-antoniak.github.io/2020/11/27/phd-applications.html" target="_blank">Maria Antoniak</a> has written useful guides
 4. Amazing panel video by <a href="https://www.youtube.com/watch?v=z6TkkdlRWcU" target="_blank">Himabindu Lakkaraju</a>
 5. On successful research by <a href="https://avt.im/blog/on-successful-research/" target="_blank">Alexander Terenin</a>
+6. A Collection of Advice for PhD Students by <a href="https://aritter.github.io/advice.html" target="_blank">Alan Ritter</a>
 
 <h3>Here are the ones I have written</h3>
 
