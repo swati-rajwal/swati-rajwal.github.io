@@ -20,3 +20,8 @@ My research interests are at the intersection of natural language processing (NL
 I'm a big country music fan and outside of work, you can find me <a href="https://www.youtube.com/watch?v=cgm9iGAupL0" target="_blank">jamming</a> with my friends or attending a <a href="https://www.youtube.com/watch?v=GfivcgiiRL0" target="_blank">musical concert</a>.
 
 # Latest News
+[```10/10/2024```] Awarded travel funding to attend and present at WiML, NeurIPS 2024🍁
+
+[```09/27/2024```] Abstract accepted for WiML@NeurIPS 2024. Congrats to my co-authors🎉
+
+For more, please see <a href="https://swati-rajwal.github.io/news/" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">News</a> page
