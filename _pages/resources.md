@@ -13,6 +13,8 @@ author_profile: true
 4. Amazing panel video by <a href="https://www.youtube.com/watch?v=z6TkkdlRWcU" target="_blank">Himabindu Lakkaraju</a>
 5. On successful research by <a href="https://avt.im/blog/on-successful-research/" target="_blank">Alexander Terenin</a>
 6. A Collection of Advice for PhD Students by <a href="https://aritter.github.io/advice.html" target="_blank">Alan Ritter</a>
+7. Writing Technical Report by <a href="https://www.overleaf.com/project/5eb6024025e03f00010f6de2" target="_blank">Jeff Orchard</a>
+8. How to write a decent scientific article or thesis by <a href="https://www.overleaf.com/project/5c6aff6b2329f04735f3e8b7" target="_blank">Drs. Clifford & Smoot</a>
 
 <h3>Here are the ones I have written</h3>
 
