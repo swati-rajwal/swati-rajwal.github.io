@@ -24,4 +24,6 @@ I'm a big country music fan and outside of work, you can find me <a href="https:
 
 [```09/27/2024```] Abstract accepted in WiML@NeurIPS 2024🎉
 
+[```05/20/2024```] _Identification of Concerns in a Social Media Breast Cancer Cohort via NLP_ was accepted for oral presentation at the CL4H workshop at NAACL 2024🎯
+
 For more, please see <a href="https://swati-rajwal.github.io/news/" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">News</a> page
