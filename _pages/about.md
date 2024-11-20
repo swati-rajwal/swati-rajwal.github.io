@@ -22,7 +22,7 @@ I'm a big country music fan and outside of work, you can find me <a href="https:
 # Latest News
 [```10/10/2024```] Awarded NSF travel grant to attend and present at WiML, NeurIPS 2024🍁
 
-[```09/27/2024```] Abstract accepted in WiML@NeurIPS 2024🎉
+[```09/27/2024```] <a href="https://neurips.cc/virtual/2024/107513" target="_blank">Abstract accepted</a> in WiML@NeurIPS 2024🎉
 
 [```05/20/2024```] _Identification of Concerns in a Social Media Breast Cancer Cohort via NLP_ was accepted for oral presentation at the CL4H workshop at NAACL 2024🎯
 
