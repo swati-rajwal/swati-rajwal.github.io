@@ -68,7 +68,8 @@ author_profile: true
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://aclanthology.org/2024.cl4health-1.32/" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
         <a href="https://github.com/swati-rajwal/BreastCancer_tweets_project" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
-        <a href="https://swati-rajwal.github.io/files/2024_CL4Health_LREC_COLING.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PRESENTATION</a>
+        <a href="https://swati-rajwal.github.io/files/2024_CL4Health_LREC_COLING.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">SLIDES</a>
+        <a href="https://swati-rajwal.github.io/files/2024_neuripsi_poster.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">POSTER</a>
       </div>
     </td>
   </tr>
