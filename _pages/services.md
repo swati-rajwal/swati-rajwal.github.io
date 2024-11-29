@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 1. <span class="label label-success" style="background-color: #007bff; display: inline; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #ffffff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;">Manuscript Reviewer</span>
+   * AMIA Informatics Summit 2025
+   * AMIA Clinical Informatics Conference 2025
    * International Conference on Learning Representations (ICLR) 2025
    * Journal of the American Medical Informatics Association (JAMIA) 2024
    * WiML Workshop co-located with NeurIPS 2024 in Vancouver, BC, Canada
