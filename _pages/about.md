@@ -20,6 +20,8 @@ My research interests are at the intersection of natural language processing (NL
 I'm a big country music fan and outside of work, you can find me <a href="https://www.youtube.com/watch?v=cgm9iGAupL0" target="_blank">jamming</a> with my friends or attending a <a href="https://www.youtube.com/watch?v=GfivcgiiRL0" target="_blank">musical concert</a>.
 
 # Latest News
+[```11/04/2024```] Scholarship for the <a href="https://web.cvent.com/event/7a9f234c-3a15-445c-8ffb-0b1c719f56b3/summary?tm=A1z624mDZccTtq3T60mex5CAQ5_EQQSQtzFfQfXMcWM" target="_blank">AI+HEALTH 2024</a> Conference approved ✨
+
 [```10/10/2024```] Awarded NSF travel grant to attend and present at WiML, NeurIPS 2024🍁
 
 [```09/27/2024```] <a href="https://neurips.cc/virtual/2024/109021" target="_blank">Abstract accepted</a> in WiML@NeurIPS 2024🎉
