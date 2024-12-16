@@ -22,21 +22,20 @@ author_profile: true
   justify-content: space-between;
 }
 
+.news-image {
+  width: 100%; /* Fill the width of the parent container */
+  height: 100%; /* Enforce the height of the parent container */
+  object-fit: cover; /* Crop the image while preserving aspect ratio */
+  display: block; /* Prevent inline spacing issues */
+}
+
+
 .news-item a {
   display: flex;
   flex-direction: column;
   justify-content: space-between; /* Keeps the caption aligned at the bottom */
   height: 100%; /* Ensure the link covers the full height of the news-item */
 }
-
-.news-image {
-  width: 100%; /* Allows the image to scale to the width of .news-item */
-  height: calc(100% - 45px); /* Adjusts the height dynamically based on the .news-item height */
-  object-fit: cover; /* Ensures the entire image is visible, may introduce empty spaces */
-  margin-bottom: 5px; /* Keeps space between image and caption */
-}
-
-
 .caption {
   height: 45px;
   display: flex;
