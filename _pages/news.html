@@ -16,7 +16,7 @@ author_profile: true
   margin: 10px;
   text-align: center;
   width: calc(25% - 20px);
-  height: 300px; /* Fixed height for uniformity */
+  height: 300px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -25,16 +25,17 @@ author_profile: true
 .news-item a {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-between; /* Keeps the caption aligned at the bottom */
   height: 100%; /* Ensure the link covers the full height of the news-item */
 }
 
 .news-image {
-  width: 100%; /* Fill the width of the parent container */
-  height: 100%; /* Enforce the height of the parent container */
-  object-fit: cover; /* Crop the image while preserving aspect ratio */
-  display: block; /* Prevent inline spacing issues */
+  width: 100%; /* Allows the image to scale to the width of .news-item */
+  height: calc(100% - 45px); /* Adjusts the height dynamically based on the .news-item height */
+  object-fit: cover; /* Ensures the entire image is visible, may introduce empty spaces */
+  margin-bottom: 5px; /* Keeps space between image and caption */
 }
+
 
 .caption {
   height: 45px;
@@ -48,10 +49,15 @@ author_profile: true
 @media (max-width: 768px) {
   .news-item {
     width: calc(50% - 20px);
-    height: 200px; /* Adjust height for smaller screens */
+    height: 200px;
+  }
+
+  .news-image {
+    height: calc(100% - 60px);
   }
 
   .caption {
+    height: 60px;
     font-size: 11px;
   }
 }
@@ -59,7 +65,7 @@ author_profile: true
 @media (max-width: 480px) {
   .news-item {
     width: calc(100% - 20px);
-    height: 250px; /* Adjust height for smaller screens */
+    height: 250px;
   }
 }
 
