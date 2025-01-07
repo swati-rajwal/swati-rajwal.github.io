@@ -41,9 +41,9 @@ author_profile: true
     <td style="width: 70%; border: none;">
       <h3 style="margin: 0;">Two-layer retrieval augmented generation framework for low-resource medical question-answering: proof of concept using Reddit data</h3>
       <p style="margin: 5px 0; color: #555;">Sudeshna Das;  Yao Ge;  Yuting Guo; <b>Swati Rajwal</b>;  JaMor Hairston;  Jeanne Powell;  Drew Walker;  Snigdha Peddireddy;  Sahithi Lakamana;  Selen Bozkurt;  Matthew Reyna;  Reza Sameni;  Yunyu Xiao;  Sangmi Kim;  Rasheeta Chandler;  Natalie Hernandez;  Danielle Mowery;  Rachel Wightman;  Jennifer Love;  Anthony Spadaro;  Jeanmarie Perrone;  Abeed Sarker</p>
-      <p style="margin: 5px 0; color: #555;">Journal of Medical Internet Research Preprint, 2024</p>
+      <p style="margin: 5px 0; color: #555;">Journal of Medical Internet Research, 2024</p>
       <div class="publication-buttons" style="margin-top: 10px;">
-        <a href="https://preprints.jmir.org/preprint/66220" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PREPRINT</a>
+        <a href="https://www.jmir.org/2025/1/e66220" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
       </div>
     </td>
   </tr>
