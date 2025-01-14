@@ -113,6 +113,26 @@ author_profile: true
   </tr>
   <!-- Ensure there's a gap after each entry for clarity -->
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
+
+  <tr style="border: none; background-color: #FFFFFF;">
+    <!-- Image Column -->
+    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
+      <img src="/images/2025_cambridge_pain_paper.jpg" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+    </td>
+    <!-- Publication Info Column -->
+    <td style="width: 70%; border: none;">
+      <h3 style="margin: 0;">Short-term variability of chronic musculoskeletal pain</h3>
+      <p style="margin: 5px 0; color: #555;">Xuanci Zheng, <b>Swati Rajwal</b>, Sharon Yuen Shan Ho, Carl Ashworth, Ben Seymour, Nicholas Shenker, Flavia Mancini</p>
+      <p style="margin: 5px 0; color: #555;">medRxiv, 2024</p>
+      <div class="publication-buttons" style="margin-top: 10px;">
+        <a href="https://www.medrxiv.org/content/10.1101/2025.01.12.25320413v1" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PREPRINT</a>
+                <a href="https://zenodo.org/records/13754802" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PsychoPy</a>
+      </div>
+    </td>
+  </tr>
+  <!-- Add additional space between publications -->
+  <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
+
   
   <!-- Repeat for each publication -->
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
