@@ -29,3 +29,38 @@ I'm a big country music fan and outside of work, you can find me <a href="https:
 [```05/20/2024```] _Identification of Concerns in a Social Media Breast Cancer Cohort via NLP_ was accepted for oral presentation at the CL4H workshop at NAACL 2024🎯
 
 For more, please see <a href="https://swati-rajwal.github.io/news/" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">News</a> page
+
+<style>
+  .scroll-container {
+    position: relative;
+    height: 200px; /* Set the height of the visible area */
+    overflow: hidden;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+
+  .scroll-content {
+    position: absolute;
+    width: 100%;
+    animation: scroll-up 10s linear infinite;
+  }
+
+  @keyframes scroll-up {
+    0% {
+      top: 100%;
+    }
+    100% {
+      top: -100%;
+    }
+  }
+</style>
+
+<div class="scroll-container">
+  <div class="scroll-content">
+    <!-- Add your latest information here -->
+    <p>Latest Update 1: New feature added to the project.</p>
+    <p>Latest Update 2: Bug fixes in the user interface.</p>
+    <p>Latest Update 3: Documentation updated with new sections.</p>
+  </div>
+</div>
