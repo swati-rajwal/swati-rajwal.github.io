@@ -33,7 +33,7 @@ For more, please see <a href="https://swati-rajwal.github.io/news/" target="_bla
 <style>
   .scroll-container {
     position: relative;
-    height: 200px; /* Set the height of the visible area */
+    height: 100px; /* Set the height of the visible area */
     overflow: hidden;
     background: #f9f9f9;
     border: 1px solid #ddd;
@@ -59,8 +59,9 @@ For more, please see <a href="https://swati-rajwal.github.io/news/" target="_bla
 <div class="scroll-container">
   <div class="scroll-content">
     <!-- Add your latest information here -->
-    <p>Latest Update 1: New feature added to the project.</p>
-    <p>Latest Update 2: Bug fixes in the user interface.</p>
-    <p>Latest Update 3: Documentation updated with new sections.</p>
+    <p>[```11/04/2024```] Scholarship for the <a href="https://web.cvent.com/event/7a9f234c-3a15-445c-8ffb-0b1c719f56b3/summary?tm=A1z624mDZccTtq3T60mex5CAQ5_EQQSQtzFfQfXMcWM" target="_blank">AI+HEALTH 2024</a> Conference approved ✨</p>
+    <p>[```10/10/2024```] Awarded NSF travel grant to attend and present at WiML, NeurIPS 2024🍁</p>
+    <p>[```09/27/2024```] <a href="https://neurips.cc/virtual/2024/109021" target="_blank">Abstract accepted</a> in WiML@NeurIPS 2024🎉</p>
+    <p>[```05/20/2024```] _Identification of Concerns in a Social Media Breast Cancer Cohort via NLP_ was accepted for oral presentation at the CL4H workshop at NAACL 2024🎯</p>
   </div>
 </div>
