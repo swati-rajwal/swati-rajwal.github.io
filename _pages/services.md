@@ -9,7 +9,7 @@ author_profile: true
    * AMIA Informatics Summit 2025
    * AMIA Clinical Informatics Conference 2025
    * International Conference on Learning Representations (ICLR) 2025
-   * Journal of the American Medical Informatics Association (JAMIA) 2024
+   * Journal of the American Medical Informatics Association <a href="https://fdslive.oup.com/www.oup.com/academic/pdf/reviewer-certificate/jamia-12481742867999068944_cert.pdf" target="_blank">(JAMIA) 2024</a>
    * WiML Workshop co-located with NeurIPS 2024 in Vancouver, BC, Canada
    * (Co-reviewer) IEEE BIBM 2024
    * MEDIQA-CORR at ClinicalNLP (NAACL) 2024
