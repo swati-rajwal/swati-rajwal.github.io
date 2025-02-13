@@ -18,8 +18,9 @@ author_profile: true
 
 <h3>Here are the ones I have written</h3>
 
-1. The do's & don'ts of writing a research request email: <a href="https://dl.acm.org/doi/abs/10.1145/3538535" target="_blank">Article in XRDS ACM</a>
-2. The Truth About Multitasking in Humans: Shattering the illusion of parallelism: <a href="https://ieeexplore.ieee.org/abstract/document/9770037" target="_blank">Article in IEEE Women in Engineering</a>
+1. Bridging Brains and Bytes: A Computer Scientist's Role in Neuroscience: <a href="https://www.womeninneuroscienceuk.org/post/bridging-brains-and-bytes-a-computer-scientist-s-role-in-neuroscience" target="_blank">Women in Neuroscience, UK</a>
+2. The do's & don'ts of writing a research request email: <a href="https://dl.acm.org/doi/abs/10.1145/3538535" target="_blank">Article in XRDS ACM</a>
+3. The Truth About Multitasking in Humans: Shattering the illusion of parallelism: <a href="https://ieeexplore.ieee.org/abstract/document/9770037" target="_blank">Article in IEEE Women in Engineering</a>
 
 <h3>Virtual workshops I organized</h3>
 <div class="videos" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px;">
