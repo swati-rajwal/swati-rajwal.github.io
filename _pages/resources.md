@@ -26,7 +26,6 @@ author_profile: true
 
 <h3>Virtual speaking</h3>
 <div class="videos" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px;">
-    <iframe width="480" height="401" src="https://drive.google.com/thumbnail?authuser=0&id=1KixPP6EHKHR2DMGNAPn7rleJMfyeGBAr&sz=w590-h369-p-k-nu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <iframe width="480" height="401" src="https://www.youtube.com/embed/Vxsq23CL87k?si=yNYx4CoU1dX5xzId" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <iframe width="380" height="301" src="https://www.youtube.com/embed/KV4oT8mDrFM?si=zzDw7sbRnXmr2Hxg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
   <iframe width="380" height="301" src="https://www.youtube.com/embed/zvELCo4d_Tw?si=XXUZmw2p7NlaNJMy" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
