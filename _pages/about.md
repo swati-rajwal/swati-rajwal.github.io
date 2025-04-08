@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "It's me, hi👋"
 author_profile: true
