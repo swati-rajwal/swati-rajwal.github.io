@@ -4,7 +4,6 @@ title: "Resources"
 permalink: /resources/
 author_profile: true
 ---
-
 <!--
 
 <h3>Useful/helpful advice from Professors or students</h3>
@@ -20,71 +19,19 @@ author_profile: true
 
 <h3>Magazine articles</h3>
 
-1. Bridging Brains and Bytes: A Computer Scientist's Role in Neuroscience: <a href="https://www.womeninneuroscienceuk.org/post/bridging-brains-and-bytes-a-computer-scientist-s-role-in-neuroscience" target="_blank">Women in Neuroscience, UK</a>  
-2. The do's & don'ts of writing a research request email: <a href="https://dl.acm.org/doi/abs/10.1145/3538535" target="_blank">Article in XRDS ACM</a>  
-3. The Truth About Multitasking in Humans: Shattering the illusion of parallelism: <a href="https://ieeexplore.ieee.org/abstract/document/9770037" target="_blank">Article in IEEE Women in Engineering</a>  
-4. The Art of Understanding and Connecting with Your Future Professor (In-press, Spring 2025). ACM XRDS  
+1. Bridging Brains and Bytes: A Computer Scientist's Role in Neuroscience: <a href="https://www.womeninneuroscienceuk.org/post/bridging-brains-and-bytes-a-computer-scientist-s-role-in-neuroscience" target="_blank">Women in Neuroscience, UK</a>
+2. The do's & don'ts of writing a research request email: <a href="https://dl.acm.org/doi/abs/10.1145/3538535" target="_blank">Article in XRDS ACM</a>
+3. The Truth About Multitasking in Humans: Shattering the illusion of parallelism: <a href="https://ieeexplore.ieee.org/abstract/document/9770037" target="_blank">Article in IEEE Women in Engineering</a>
+4. The Art of Understanding and Connecting with Your Future Professor (In-press, Spring 2025). ACM XRDS
 
 <h3>Virtual speaking</h3>
-
-<style>
-.video-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 24px;
-}
-
-.video-wrapper {
-  position: relative;
-  padding-top: 56.25%;
-  overflow: hidden;
-  border-radius: 12px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.video-wrapper:hover {
-  transform: scale(1.02);
-  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.2);
-}
-
-.video-wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
-  border-radius: 12px;
-}
-</style>
-
-<div class="video-grid">
-  <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/Fli9t2woSnc?si=FwW6EPvzjQ4dOrcL" title="YouTube video player" allowfullscreen></iframe>
-  </div>
-  <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/Vxsq23CL87k?si=yNYx4CoU1dX5xzId" title="YouTube video player" allowfullscreen></iframe>
-  </div>
-  <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/KV4oT8mDrFM?si=zzDw7sbRnXmr2Hxg" title="YouTube video player" allowfullscreen></iframe>
-  </div>
-  <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/zvELCo4d_Tw?si=XXUZmw2p7NlaNJMy" title="YouTube video player" allowfullscreen></iframe>
-  </div>
-  <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/Lyow3E9xWb0?si=5FE5AgjQUFCaJPiI" title="YouTube video player" allowfullscreen></iframe>
-  </div>
-  <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/jzroRTG2FS0?si=GVuWPbARR9_45Ol9" title="YouTube video player" allowfullscreen></iframe>
-  </div>
-  <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/UzHPYRGWlXI?si=vTFbKg_eTUY6MPJQ" title="YouTube video player" allowfullscreen></iframe>
-  </div>
-  <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/hpQga6tGTLY?si=Rk9jm9UtLg4jovY9" title="YouTube video player" allowfullscreen></iframe>
-  </div>
-  <div class="video-wrapper">
-    <iframe src="https://drive.google.com/file/d/1KixPP6EHKHR2DMGNAPn7rleJMfyeGBAr/preview" title="Google Drive video" allow="autoplay"></iframe>
-  </div>
+<div class="videos" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px;">
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/Fli9t2woSnc?si=FwW6EPvzjQ4dOrcL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="480" height="401" src="https://www.youtube.com/embed/Vxsq23CL87k?si=yNYx4CoU1dX5xzId" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/KV4oT8mDrFM?si=zzDw7sbRnXmr2Hxg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/zvELCo4d_Tw?si=XXUZmw2p7NlaNJMy" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/Lyow3E9xWb0?si=5FE5AgjQUFCaJPiI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/jzroRTG2FS0?si=GVuWPbARR9_45Ol9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/UzHPYRGWlXI?si=vTFbKg_eTUY6MPJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="380" height="301" src="https://www.youtube.com/embed/hpQga6tGTLY?si=Rk9jm9UtLg4jovY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
