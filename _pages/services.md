@@ -14,7 +14,7 @@ author_profile: true
    * MEDIQA-CORR at ClinicalNLP (NAACL) 2024
    * Social Media Mining for Health Research and Applications (#SMM4H) 2025, 2024
    * Grace Hopper Celebration 2022
-2. NSF AI Institute for Societal Decision Making <a href="https://www.cmu.edu/ai-sdm/students/index.html#:~:text=Carnegie%20Mellon%20University-,Swati%20Rajwal" target="_blank">Student Leadership Council (SLC)</a>
+2. NSF AI Institute for Societal Decision Making <a href="https://www.cmu.edu/ai-sdm/students/index.html" target="_blank">Student Leadership Council (SLC)</a>
 3. <a href="https://www.widsworldwide.org/get-inspired/blog/people/swati-rajwal/" target="_blank">Women in Data Science 2024 Ambassador</a>
 4. Google's <a href="https://g.dev/swatirajwal" target="_blank">Women Techmaker Ambassador since 2022</a>
 5. Co-organizer at the 9<sup>th</sup> SMM4H (<a href="https://aclanthology.org/2024.smm4h-1.40/" target="_blank">ACL 2024</a>) and 10<sup>th</sup> SMM4H (<a href="https://healthlanguageprocessing.org/smm4h-2025/" target="_blank">ICWSM 2025</a>)
