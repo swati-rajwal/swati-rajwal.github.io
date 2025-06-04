@@ -14,10 +14,11 @@ author_profile: true
    * MEDIQA-CORR at ClinicalNLP (NAACL) 2024
    * Social Media Mining for Health Research and Applications (#SMM4H) 2025, 2024
    * Grace Hopper Celebration 2022
-2. <a href="https://www.widsworldwide.org/get-inspired/blog/people/swati-rajwal/" target="_blank">Women in Data Science 2024 Ambassador</a>
-3. Google's <a href="https://g.dev/swatirajwal" target="_blank">Women Techmaker Ambassador since 2022</a>
-4. Co-organizer at the 9<sup>th</sup> SMM4H (<a href="https://aclanthology.org/2024.smm4h-1.40/" target="_blank">ACL 2024</a>) and 10<sup>th</sup> SMM4H (<a href="https://healthlanguageprocessing.org/smm4h-2025/" target="_blank">ICWSM 2025</a>)
-5. <span class="label label-success" style="background-color: #007bff; display: inline; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #ffffff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;">Mentor</span>
+2. NSF AI Institute for Societal Decision Making <a href="https://www.cmu.edu/ai-sdm/students/index.html#:~:text=Carnegie%20Mellon%20University-,Swati%20Rajwal" target="_blank">Student Leadership Council (SLC)</a>
+3. <a href="https://www.widsworldwide.org/get-inspired/blog/people/swati-rajwal/" target="_blank">Women in Data Science 2024 Ambassador</a>
+4. Google's <a href="https://g.dev/swatirajwal" target="_blank">Women Techmaker Ambassador since 2022</a>
+5. Co-organizer at the 9<sup>th</sup> SMM4H (<a href="https://aclanthology.org/2024.smm4h-1.40/" target="_blank">ACL 2024</a>) and 10<sup>th</sup> SMM4H (<a href="https://healthlanguageprocessing.org/smm4h-2025/" target="_blank">ICWSM 2025</a>)
+6. <span class="label label-success" style="background-color: #007bff; display: inline; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #ffffff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;">Mentor</span>
     * <a href="https://rewritingthecode.org/member-story/meet-swati/" target="_blank">Rewriting the Code</a>
     * <a href="https://x.com/SwatiRajwal/status/1751056567510691906" target="_blank">AnitaB.org 2023</a>
     * Women in Big Data <a href="https://swati-rajwal.github.io/files/2024_WiBD_August_Mentorship.pdf" target="_blank">Aug. 2024</a>
