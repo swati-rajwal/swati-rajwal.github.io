@@ -22,7 +22,7 @@ author_profile: true
 1. Bridging Brains and Bytes: A Computer Scientist's Role in Neuroscience: <a href="https://www.womeninneuroscienceuk.org/post/bridging-brains-and-bytes-a-computer-scientist-s-role-in-neuroscience" target="_blank">Women in Neuroscience, UK</a>
 2. The do's & don'ts of writing a research request email: <a href="https://dl.acm.org/doi/abs/10.1145/3538535" target="_blank">Article in XRDS ACM</a>
 3. The Truth About Multitasking in Humans: Shattering the illusion of parallelism: <a href="https://ieeexplore.ieee.org/abstract/document/9770037" target="_blank">Article in IEEE Women in Engineering</a>
-4. The Art of Understanding and Connecting with Your Future Professor (In-press, Spring 2025). ACM XRDS
+4. Connecting with Your Future Professor: A Practical Guide. <a href="http://dx.doi.org/10.1145/3729506" target="_blank">ACM XRDS</a>
 
 <h3>Virtual speaking</h3>
 <div class="videos" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px;">
