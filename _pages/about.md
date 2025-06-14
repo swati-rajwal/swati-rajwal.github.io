@@ -21,6 +21,8 @@ My research interests are at the intersection of natural language processing (NL
 I'm a big country music fan and outside of work, you can find me <a href="https://www.youtube.com/watch?v=cgm9iGAupL0" target="_blank">jamming</a> with my friends or attending a <a href="https://www.youtube.com/watch?v=GfivcgiiRL0" target="_blank">musical concert</a>.
 
 # Latest News
+[```06/10/2025```] _LLMs’ Rating Behaviors on Novel Psychoactive Substances using Reddit_ poster accepted at AMIA'25
+
 [```06/09/2025```] Started summer research at <a href="https://www.chip.org/" target="_blank">CHIP</a> Boston Children’s Hospital, affiliated with Harvard Medical School
 
 [```01/22/2025```] _INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge_ accepted in <a href="https://arxiv.org/abs/2411.19799" target="_blank">ICLR (Spotlight) 2025</a>📌
@@ -31,6 +33,6 @@ I'm a big country music fan and outside of work, you can find me <a href="https:
 
 [```09/27/2024```] <a href="https://neurips.cc/virtual/2024/109021" target="_blank">Abstract accepted</a> in WiML@NeurIPS 2024🎉
 
-[```05/20/2024```] _Identification of Concerns in a Social Media Breast Cancer Cohort via NLP_ accepted for oral presentation at the <a href="https://aclanthology.org/2024.cl4health-1.32/" target="_blank">CL4H workshop at NAACL 2024</a>🎯
+[```05/20/2024```] _Concerns in a Social Media Breast Cancer Cohort via NLP_ accepted for oral presentation at <a href="https://aclanthology.org/2024.cl4health-1.32/" target="_blank">CL4H (NAACL) 2024</a>🎯
 
 For more, please see <a href="https://swati-rajwal.github.io/news/" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">News</a> page
