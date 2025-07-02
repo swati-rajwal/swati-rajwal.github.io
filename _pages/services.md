@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 1. <span class="label label-success" style="background-color: #007bff; display: inline; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #ffffff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;">Manuscript Reviewer</span>
+   * IEEE EMBS Int'l Conf. on Biomedical and Health Informatics (BHI) 2025
    * AMIA 2025: Informatics Summit, Clinical Informatics Conference
    * Co-reviewer: CL4Health@NAACL'25, AIME'25, IEEE BIBM'24
    * International Conference on Learning Representations (ICLR) 2025
