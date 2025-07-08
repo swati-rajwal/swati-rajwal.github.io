@@ -38,7 +38,7 @@ author_profile: true
     <td style="width: 70%; border: none;">
       <h3 style="margin: 0;">INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge</h3>
       <p style="margin: 5px 0; color: #555;">Cohere labs: Angelika Romanou, Negar Foroutan,..<b>Swati Rajwal</b> et al.</p>
-      <p style="margin: 5px 0; color: #555;">ICLR, 2025</p>
+      <p style="margin: 5px 0; color: #555;">ICLR (Spotlight), 2025</p>
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://openreview.net/pdf?id=k3gCieTXeY" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
       </div>
