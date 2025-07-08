@@ -21,6 +21,8 @@ My research interests are at the intersection of natural language processing (NL
 I'm a big country music fan and outside of work, you can find me <a href="https://www.youtube.com/watch?v=cgm9iGAupL0" target="_blank">jamming</a> with my friends or attending a <a href="https://www.youtube.com/watch?v=GfivcgiiRL0" target="_blank">musical concert</a>.
 
 # Latest News
+[```07/07/2025```] _Do Biased Models Have Biased Thoughts?_ accepted at <a href="https://openreview.net/forum?id=vDr0RV3590#discussion" target="_blank">COLM 2025</a>🍁
+
 [```06/09/2025```] Started summer research at Boston Children’s Hospital, aff. w/ Harvard Medical School
 
 [```06/06/2025```] _Two-layer RAG for Low-resource Medical QA Using Reddit_ podium oral presentation <a href="https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/18831" target="_blank">accepted at AMIA'25</a>🌟
