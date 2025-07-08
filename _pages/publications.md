@@ -16,6 +16,22 @@ author_profile: true
   <tr style="border: none; background-color: #FFFFFF;">
     <!-- Image Column -->
     <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
+      <img src="/images/2025_colm.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+    </td>
+    <!-- Publication Info Column -->
+    <td style="width: 70%; border: none;">
+      <h3 style="margin: 0;">Do Biased Models Have Biased Thoughts?</h3>
+      <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b>, Shivank Garg, Reem Abdel-Salam, Abdelrahman Zayed</p>
+      <p style="margin: 5px 0; color: #555;">COLM, 2025</p>
+      <div class="publication-buttons" style="margin-top: 10px;">
+        <a href="https://openreview.net/forum?id=vDr0RV3590#discussion" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+      </div>
+    </td>
+  </tr>
+  <!-- Add additional space between publications -->
+  <tr style="border: none; background-color: #FFFFFF;">
+    <!-- Image Column -->
+    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
       <img src="/images/2024_c4ai.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
     </td>
     <!-- Publication Info Column -->
