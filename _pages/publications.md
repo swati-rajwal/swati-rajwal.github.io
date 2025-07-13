@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-<div class="wordwrap">More articles on <a href="{{ site.author.googlescholar }}" target="_blank">my Google Scholar profile</a>.</div>
+<div class="wordwrap">More articles on <a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar</a>.</div>
 {% endif %}
 
 <!-- Publications Table -->
