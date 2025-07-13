@@ -41,6 +41,8 @@ author_profile: true
       <p style="margin: 5px 0; color: #555;">ICLR (Spotlight), 2025</p>
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://openreview.net/pdf?id=k3gCieTXeY" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+                <a href="https://swati-rajwal.github.io/files/2025_ICLR_poster.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">POSTER</a>
+
       </div>
     </td>
   </tr>
