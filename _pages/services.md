@@ -13,7 +13,7 @@ author_profile: true
    * Journal of the American Medical Informatics Association <a href="https://fdslive.oup.com/www.oup.com/academic/pdf/reviewer-certificate/jamia-12481742867999068944_cert.pdf" target="_blank">(JAMIA) 2024</a>
    * WiML workshop at <a href="https://sites.google.com/wimlworkshop.org/wiml-2024/program?authuser=0#h.1dzx6aq157xv" target="_blank">NeurIPS 2024</a>, Canada
    * MEDIQA-CORR at ClinicalNLP (NAACL) 2024
-   * Social Media Mining for Health Research and Applications (#SMM4H) 2025, 2024
+   * Social Media Mining for Health Research and Applications (#SMM4H) <a href="https://workshop-proceedings.icwsm.org/pdf/2025_55.pdf" target="_blank">2025</a>, <a href="https://aclanthology.org/2024.smm4h-1.40/" target="_blank">2024</a>
    * Grace Hopper Celebration 2022
 2. NSF AI Institute for Societal Decision Making <a href="https://www.cmu.edu/ai-sdm/students/index.html" target="_blank">Student Leadership Council (SLC)</a>
 3. <a href="https://www.widsworldwide.org/get-inspired/blog/people/swati-rajwal/" target="_blank">Women in Data Science 2024 Ambassador</a>
