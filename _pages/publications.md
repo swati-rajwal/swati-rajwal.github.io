@@ -16,7 +16,7 @@ author_profile: true
   <tr style="border: none; background-color: #FFFFFF;">
     <!-- Image Column -->
     <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
-      <img src="/images/2025_colm.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+      <img src="/images/2025_COLM.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
     </td>
     <!-- Publication Info Column -->
     <td style="width: 70%; border: none;">
