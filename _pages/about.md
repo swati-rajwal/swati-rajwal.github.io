@@ -21,13 +21,11 @@ My research interests are at the intersection of natural language processing (NL
 I'm a big country music fan and outside of work, you can find me <a href="https://www.youtube.com/watch?v=cgm9iGAupL0" target="_blank">jamming</a> with my friends or attending a <a href="https://www.youtube.com/watch?v=GfivcgiiRL0" target="_blank">musical concert</a>.
 
 # Latest News
-[```07/07/2025```] _Do Biased Models Have Biased Thoughts?_ accepted at <a href="https://openreview.net/forum?id=vDr0RV3590#discussion" target="_blank">COLM 2025</a>🍁
+[```08/16/2025```] Paper accepted at <a href="https://arxiv.org/abs/2508.06671" target="_blank">COLM 2025</a> with travel grant🍁
 
 [```06/09/2025```] Started summer research at Boston Children’s Hospital, aff. w/ Harvard Medical School
 
-[```06/06/2025```] _Two-layer RAG for Low-resource Medical QA Using Reddit_ podium oral presentation <a href="https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/18831" target="_blank">accepted at AMIA'25</a>🌟
-
-[```06/06/2025```] _LLMs’ Rating Behaviors on Novel Psychoactive Substances using Reddit_ poster <a href="https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/20563" target="_blank">accepted at AMIA'25</a>🌟
+[```06/06/2025```] Two papers accepted at AMIA 2025: one as <a href="https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/20563" target="_blank">presenter</a> and other as <a href="https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/18831" target="_blank">co-author</a>🌟
 
 [```01/22/2025```] _Evaluating Multilingual Language Understanding w/ Regional Knowledge_ accepted in <a href="https://arxiv.org/abs/2411.19799" target="_blank">ICLR (Spotlight) 2025</a>📌
 
