@@ -158,9 +158,9 @@ author_profile: true
     <td style="width: 70%; border: none;">
       <h3 style="margin: 0;">Short-term variability of chronic musculoskeletal pain</h3>
       <p style="margin: 5px 0; color: #555;">Xuanci Zheng, <b>Swati Rajwal</b>, Sharon Yuen Shan Ho, Carl Ashworth, Ben Seymour, Nicholas Shenker, Flavia Mancini</p>
-      <p style="margin: 5px 0; color: #555;">medRxiv, 2024</p>
+      <p style="margin: 5px 0; color: #555;">Front. Pain Res., 2025</p>
       <div class="publication-buttons" style="margin-top: 10px;">
-        <a href="https://www.medrxiv.org/content/10.1101/2025.01.12.25320413v1" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PREPRINT</a>
+        <a href="https://doi.org/10.3389/fpain.2025.1626589" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
                 <a href="https://zenodo.org/records/13754802" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PsychoPy</a>
       </div>
     </td>
