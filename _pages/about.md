@@ -21,7 +21,7 @@ My research interests are at the intersection of natural language processing (NL
 I'm a big country music fan and outside of work, you can find me <a href="https://www.youtube.com/watch?v=cgm9iGAupL0" target="_blank">jamming</a> with my friends or attending a <a href="https://www.youtube.com/watch?v=GfivcgiiRL0" target="_blank">musical concert</a>.
 
 # Latest News
-[```09/12/2025```]Awarded <a href="https://amia.org/about-amia/amia-awards/amia-leadership-and-education-awards-donation-lead-fund/amia-lead-fund-1" target="_blank">AMIA LEAD Fund</a> Trainee & Early Career Scholarship 2025
+[```09/12/2025```] Awarded <a href="https://amia.org/about-amia/amia-awards/amia-leadership-and-education-awards-donation-lead-fund/amia-lead-fund-1" target="_blank">AMIA LEAD Fund</a> Trainee & Early Career Scholarship 2025
 
 [```08/16/2025```] Paper accepted at <a href="https://arxiv.org/abs/2508.06671" target="_blank">COLM 2025</a> with travel grant🍁
 
