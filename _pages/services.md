@@ -19,6 +19,8 @@ author_profile: true
 2. NSF AI Institute for Societal Decision Making <a href="https://www.cmu.edu/ai-sdm/students/index.html" target="_blank">Student Leadership Council (SLC)</a>
 3. <a href="https://www.widsworldwide.org/get-inspired/blog/people/swati-rajwal/" target="_blank">Women in Data Science 2024 Ambassador</a>
 4. Google's <a href="https://g.dev/swatirajwal" target="_blank">Women Techmaker Ambassador since 2022</a>
+5. Laney Graduate School (LGS) Ambassador 2025-26
+6. Emory Computer Science & Informatics PhD <a href="https://www.linkedin.com/posts/emory-university-department-of-computer-science_emorycs-computerscience-graduatestudies-activity-7313253442305630209-P5-z?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAB_7APYBDiyZ809OFpQLKOgHHMkaMqYeZa8" target="_blank">Ambassador 2025</a>
 5. <span class="label label-success" style="background-color: #007bff; display: inline; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #ffffff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;">Co-organizer</span>
     * 9<sup>th</sup> SMM4H (<a href="https://aclanthology.org/2024.smm4h-1.40/" target="_blank">ACL 2024</a>) and 10<sup>th</sup> SMM4H (<a href="https://healthlanguageprocessing.org/smm4h-2025/" target="_blank">ICWSM 2025</a>)
     * Jones Program in Ethics 600 - Emory’s Laney Graduate School Ambassador 2025
