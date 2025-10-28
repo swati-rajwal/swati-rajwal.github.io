@@ -46,7 +46,23 @@ author_profile: true
       </div>
     </td>
   </tr>
-  <!-- Add additional space between publications -->
+  <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
+  <!-- Repeat for each publication -->
+<tr style="border: none; background-color: #FFFFFF;">
+    <!-- Image Column -->
+    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
+      <img src="/images/2025_lupus.jpg" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+    </td>
+    <!-- Publication Info Column -->
+  <td style="width: 70%; border: none;">
+      <h3 style="margin: 0;">Centering Patient Voices in Lupus Pain: A Biopsychosocial Analysis of Reddit Narratives Using Large Language Models</h3>
+      <p style="margin: 5px 0; color: #555;">Andrew Walker, Jerik Leung, Aishwarya Alagappan, <b>Swati Rajwal</b>, Sahithi Lakamana, Tricia Park, Nathan Le, Anushka Irani, Abeed Sarker, Titilola Falasinnu, Selen Bozkurt</p>
+      <p style="margin: 5px 0; color: #555;">Arthritis Care & Research</p>
+      <div class="publication-buttons" style="margin-top: 10px;">
+        <a href="https://doi.org/10.1002/acr.25687" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+      </div>
+    </td>
+  </tr>
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
   <!-- Repeat for each publication -->
 <tr style="border: none; background-color: #FFFFFF;">
@@ -58,13 +74,12 @@ author_profile: true
   <td style="width: 70%; border: none;">
       <h3 style="margin: 0;">Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation</h3>
       <p style="margin: 5px 0; color: #555;">Cohere labs: Israfel Salazar, Manuel Fernández Burda,..<b>Swati Rajwal</b> et al.</p>
-      <p style="margin: 5px 0; color: #555;">under review at NeurIPS, 2025</p>
+      <p style="margin: 5px 0; color: #555;">under review at ICLR, 2026</p>
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://arxiv.org/pdf/2504.07072" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
       </div>
     </td>
   </tr>
-  <!-- Add additional space between publications -->
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
   <!-- Repeat for each publication -->
 
