@@ -17,6 +17,7 @@ author_profile: true
    * Social Media Mining for Health Research and Applications (#SMM4H) <a href="https://workshop-proceedings.icwsm.org/pdf/2025_55.pdf" target="_blank">2025</a>, <a href="https://aclanthology.org/2024.smm4h-1.40/" target="_blank">2024</a>
    * Grace Hopper Celebration 2022
 5. <span class="label label-success" style="background-color: #007bff; display: inline; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #ffffff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;">Outreach & Ambassador Roles</span>
+   * <a href="https://amia.org/community/working-groups/natural-language-processing" target="_blank">AMIA NLP Working Group</a> Member-at-Large Student Representative 2026-27
    * NSF AI Institute for Societal Decision Making <a href="https://www.cmu.edu/ai-sdm/students/index.html" target="_blank">Student Leadership Council (SLC)</a>
    * <a href="https://www.widsworldwide.org/get-inspired/blog/people/swati-rajwal/" target="_blank">Women in Data Science 2024 Ambassador</a>
    * Google's <a href="https://g.dev/swatirajwal" target="_blank">Women Techmaker Ambassador since 2022</a>
