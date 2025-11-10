@@ -157,6 +157,7 @@ author_profile: true
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://doi.org/10.1145/3768292.3770439" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
         <a href="https://github.com/avifin19/ethical-llms-financial-crime" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
+        <a href="https://swati-rajwal.github.io/files/2025_ICAIF_PPT.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">SLIDES</a>
       </div>
     </td>
   </tr>
