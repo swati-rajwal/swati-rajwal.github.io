@@ -11,7 +11,7 @@ author_profile: true
    * AMIA 2025: <a href="/images/2025_AMIA_Informatics_summit_reviewer_ack.png" target="_blank">Informatics Summit</a>, <a href="/images/2025_AMIA_reviewer_ack.png" target="_blank">Clinical Informatics Conference</a>, <a href="/images/2025_AMIA_Annual_Symposium_reviewer_ack.png" target="_blank">Annual Symposium</a>
    * Co-reviewer: CL4Health@NAACL'25, AIME'25, IEEE BIBM'24
    * International Conference on Learning Representations (ICLR) 2025
-   * Journal of the American Medical Informatics Association <a href="https://fdslive.oup.com/www.oup.com/academic/pdf/reviewer-certificate/jamia-12481742867999068944_cert.pdf" target="_blank">(JAMIA) 2024</a>
+   * Journal of the American Medical Informatics Association <a href="https://swati-rajwal.github.io/files/2024_jamia_reviewer.pdf" target="_blank">(JAMIA) 2024</a>
    * WiML workshop at NeurIPS <a href="https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2025/program?authuser=0" target="_blank">2025 (USA)</a>, <a href="https://sites.google.com/wimlworkshop.org/wiml-2024/program?authuser=0#h.1dzx6aq157xv" target="_blank">2024 (Canada)</a>
    * MEDIQA-CORR at ClinicalNLP (NAACL) 2024
    * Social Media Mining for Health Research and Applications (#SMM4H) <a href="https://workshop-proceedings.icwsm.org/pdf/2025_55.pdf" target="_blank">2025</a>, <a href="https://aclanthology.org/2024.smm4h-1.40/" target="_blank">2024</a>
