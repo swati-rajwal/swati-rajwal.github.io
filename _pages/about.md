@@ -21,6 +21,8 @@ My research interests are at the intersection of natural language processing (NL
 I'm a big country music fan and outside of work, you can find me <a href="https://www.youtube.com/watch?v=cgm9iGAupL0" target="_blank">jamming</a> with my friends or attending a <a href="https://www.youtube.com/watch?v=GfivcgiiRL0" target="_blank">musical concert</a>.
 
 # Latest News
+[```01/26/2026```] _Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation_ accepted in <a href="https://openreview.net/forum?id=zCYXhSy9UH" target="_blank">ICLR 2026</a>
+
 [```01/05/2026```] Elected as AMIA NLP Working Group <a href="https://amia.org/membership/swati-rajwal-phd" target="_blank">Member-at-Large Student Representative</a> 2026-27
 
 [```09/12/2025```] Awarded <a href="https://amia.org/about-amia/amia-awards/amia-leadership-and-education-awards-donation-lead-fund/amia-lead-fund-1" target="_blank">AMIA LEAD Fund</a> Trainee & Early Career Scholarship 2025
@@ -29,9 +31,9 @@ I'm a big country music fan and outside of work, you can find me <a href="https:
 
 [```06/09/2025```] Started summer research at Boston Children’s Hospital, aff. w/ Harvard Medical School
 
-[```06/06/2025```] Two papers accepted at AMIA 2025: one as <a href="https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/20563" target="_blank">presenter</a> and other as <a href="https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/18831" target="_blank">co-author</a>🌟
+[```06/06/2025```] AMIA 2025 acceptance: one as <a href="https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/20563" target="_blank">presenter</a> and other as <a href="https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/18831" target="_blank">co-author</a>🌟
 
-[```01/22/2025```] _Evaluating Multilingual Language Understanding w/ Regional Knowledge_ accepted in <a href="https://arxiv.org/abs/2411.19799" target="_blank">ICLR (Spotlight) 2025</a>📌
+[```01/22/2025```] _Evaluating Multilingual Language Understanding w/ Regional Knowledge_ accepted in <a href="https://iclr.cc/virtual/2025/poster/28601" target="_blank">ICLR (Spotlight) 2025</a>📌
 
 [```11/04/2024```] Scholarship for the <a href="https://web.cvent.com/event/7a9f234c-3a15-445c-8ffb-0b1c719f56b3/summary?tm=A1z624mDZccTtq3T60mex5CAQ5_EQQSQtzFfQfXMcWM" target="_blank">AI+HEALTH 2024</a> Conference approved ✨
 
