@@ -16,6 +16,23 @@ author_profile: true
   <tr style="border: none; background-color: #FFFFFF;">
     <!-- Image Column -->
     <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
+      <img src="/images/2026_SDOH_Review_bubble_figure.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+    </td>
+    <!-- Publication Info Column -->
+  <td style="width: 70%; border: none;">
+      <h3 style="margin: 0;">Applications of Natural Language Processing and Large Language Models for Social Determinants of Health: A Systematic Review</h3>
+      <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b>, Avinash Kumar Pandey, Ziyuan Zhang, Yankai Chen, Michael X. Liu, Sudeshna Das, Hannah Rogers, Abeed Sarker, Yunyu Xiao</p>
+      <p style="margin: 5px 0; color: #555;">Journal of Medical Internet Research, 2026</p>
+      <div class="publication-buttons" style="margin-top: 10px;">
+        <a href="https://doi.org/10.2196/83793" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+        <a href="https://doi.org/10.2196/66094" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PROTOCOL</a>
+  </tr>
+  <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
+  <!-- Repeat for each publication -->
+
+  <tr style="border: none; background-color: #FFFFFF;">
+    <!-- Image Column -->
+    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
       <img src="/images/2025_COLM.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
     </td>
     <!-- Publication Info Column -->
@@ -57,7 +74,7 @@ author_profile: true
   <td style="width: 70%; border: none;">
       <h3 style="margin: 0;">Centering Patient Voices in Lupus Pain: A Biopsychosocial Analysis of Reddit Narratives Using Large Language Models</h3>
       <p style="margin: 5px 0; color: #555;">Andrew Walker, Jerik Leung, Aishwarya Alagappan, <b>Swati Rajwal</b>, Sahithi Lakamana, Tricia Park, Nathan Le, Anushka Irani, Abeed Sarker, Titilola Falasinnu, Selen Bozkurt</p>
-      <p style="margin: 5px 0; color: #555;">Arthritis Care & Research</p>
+      <p style="margin: 5px 0; color: #555;">Arthritis Care & Research, 2025</p>
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://doi.org/10.1002/acr.25687" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
       </div>
