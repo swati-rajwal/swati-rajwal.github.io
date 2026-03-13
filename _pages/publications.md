@@ -26,7 +26,9 @@ author_profile: true
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://doi.org/10.2196/83793" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
         <a href="https://doi.org/10.2196/66094" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PROTOCOL</a>
-  </tr>
+      </div>
+    </td>
+    </tr>
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
   <!-- Repeat for each publication -->
 
