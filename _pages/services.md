@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. <span class="label label-success" style="background-color: #007bff; display: inline; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #ffffff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;">Manuscript Reviewer</span>
-   * 2026: <a href="/images/2026_AMIA_Amplify.png" target="_blank">Amplify</a>, <a href="https://swati-rajwal.github.io/files/2026_Discover_AI_Reviewer.pdf" target="_blank">Discover AI (Springer Nature), PLOS Digital Health, npj Health Systems</a>
+   * 2026: <a href="/images/2026_AMIA_Amplify.png" target="_blank">Amplify</a>, <a href="https://swati-rajwal.github.io/files/2026_Discover_AI_Reviewer.pdf" target="_blank">Discover AI (Springer Nature)</a>, PLOS Digital Health, <a href="https://swati-rajwal.github.io/files/2026_npj_health_systems.pdf" target="_blank">npj Health Systems</a>
    * 2025: IEEE EMBS <a href="https://swati-rajwal.github.io/files/2025_IEEE EMBS.pdf" target="_blank">(BHI) 2025</a>, APHA Annual Meeting, ICLR, <a href="https://sites.google.com/wimlworkshop.org/wimlworkshopneurips2025/program?authuser=0" target="_blank">WiML</a> NeurIPS (USA),
    * AMIA 2025: <a href="/images/2025_AMIA_Informatics_summit_reviewer_ack.png" target="_blank">Informatics Summit</a>, <a href="/images/2025_AMIA_reviewer_ack.png" target="_blank">Clinical Informatics Conference</a>, <a href="/images/2025_AMIA_Annual_Symposium_reviewer_ack.png" target="_blank">Annual Symposium</a>
    * Co-reviewer: CL4Health@NAACL'25, AIME'25, IEEE BIBM'24
