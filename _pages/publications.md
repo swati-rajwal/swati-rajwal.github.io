@@ -25,12 +25,30 @@ author_profile: true
       <p style="margin: 5px 0; color: #555;">CL4Health @ LREC 2026</p>
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
-        <a href="" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">American Thoracic Society</a>
+        <a href="https://ats2026.d365.events/education/abstracts/abstracts/e5f1a21d-87cc-4c3c-af2a-72379193ca22" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">American Thoracic Society</a>
       </div>
     </td>
     </tr>
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
   <!-- Repeat for each publication -->
+  <tr style="border: none; background-color: #FFFFFF;">
+    <!-- Image Column -->
+    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
+      <img src="/images/2026_NLP_CP_methodology.jpg" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+    </td>
+    <!-- Publication Info Column -->
+  <td style="width: 70%; border: none;">
+      <h3 style="margin: 0;">A scoping review of applications of natural language processing for chronic pain research</h3>
+      <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b>, Selen Bozkurt, Jeanmarie PerroneAnne M McKenzie-Brown, Abeed Sarker</p>
+      <p style="margin: 5px 0; color: #555;">Discover Artificial Intelligence, Springer, 2026</p>
+      <div class="publication-buttons" style="margin-top: 10px;">
+        <a href="" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+      </div>
+    </td>
+    </tr>
+  <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
+  
+  <!-- Add additional space between publications -->
   
   <tr style="border: none; background-color: #FFFFFF;">
     <!-- Image Column -->
@@ -49,7 +67,25 @@ author_profile: true
     </td>
     </tr>
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
-  <!-- Repeat for each publication -->
+  
+  <!-- Add additional space between publications -->
+  <tr style="border: none; background-color: #FFFFFF;">
+    <!-- Image Column -->
+    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
+      <img src="/images/2025_ICAIF.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
+    </td>
+    <!-- Publication Info Column -->
+    <td style="width: 70%; border: none;">
+      <h3 style="margin: 0;">Evaluating the Ethical Judgment of Large Language Models in Financial Market Abuse Cases</h3>
+      <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b>, Avinash Kumar Pandey</p>
+      <p style="margin: 5px 0; color: #555;">The ACM ICAIF, 2025</p>
+      <div class="publication-buttons" style="margin-top: 10px;">
+        <a href="https://doi.org/10.1145/3768292.3770439" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+        <a href="https://github.com/avifin19/ethical-llms-financial-crime" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
+        <a href="https://swati-rajwal.github.io/files/2025_ICAIF_PPT.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">SLIDES</a>
+      </div>
+    </td>
+  </tr><!-- Repeat for each publication -->
 
   <tr style="border: none; background-color: #FFFFFF;">
     <!-- Image Column -->
@@ -64,6 +100,7 @@ author_profile: true
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://openreview.net/forum?id=vDr0RV3590#discussion" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
         <a href="https://swati-rajwal.github.io/files/2025_COLM_poster.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">POSTER</a>
+        <a href="https://neurips.cc/virtual/2025/loc/san-diego/133905" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">WiML@NeurIPS'25</a>
       </div>
     </td>
   </tr>
@@ -115,6 +152,7 @@ author_profile: true
       <p style="margin: 5px 0; color: #555;">under review at ICLR, 2026</p>
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://arxiv.org/pdf/2504.07072" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+        <a href="https://iclr.cc/virtual/2026/poster/10006477" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">ICLR</a>
       </div>
     </td>
   </tr>
@@ -133,6 +171,7 @@ author_profile: true
       <p style="margin: 5px 0; color: #555;">Journal of Medical Internet Research, 2024</p>
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="https://www.jmir.org/2025/1/e66220" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+        <a href="https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/18831#:~:text=California%2C%20Irvine%3B-,Two%2Dlayer%20Retrieval%20Augmented%20Generation%20Framework%20for%20Low%2Dresource%20Medical%20Question%2Danswering%20Using%20Reddit%20Data%3A%20Proof%20of%20Concept,-Click%20to%20View" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">AMIA Podium Presentation</a>
       </div>
     </td>
   </tr>
@@ -181,24 +220,7 @@ author_profile: true
       </div>
     </td>
   </tr>
-  <!-- Add additional space between publications -->
-  <tr style="border: none; background-color: #FFFFFF;">
-    <!-- Image Column -->
-    <td style="width: 30%; padding: 20px 0; border: none; text-align: center;">
-      <img src="/images/2025_ICAIF.png" alt="Publication Thumbnail" style="max-width: 100%; height: auto;">
-    </td>
-    <!-- Publication Info Column -->
-    <td style="width: 70%; border: none;">
-      <h3 style="margin: 0;">Evaluating the Ethical Judgment of Large Language Models in Financial Market Abuse Cases</h3>
-      <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b>, Avinash Kumar Pandey</p>
-      <p style="margin: 5px 0; color: #555;">The ACM ICAIF, 2025</p>
-      <div class="publication-buttons" style="margin-top: 10px;">
-        <a href="https://doi.org/10.1145/3768292.3770439" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
-        <a href="https://github.com/avifin19/ethical-llms-financial-crime" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">CODE</a>
-        <a href="https://swati-rajwal.github.io/files/2025_ICAIF_PPT.pdf" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">SLIDES</a>
-      </div>
-    </td>
-  </tr>
+  
   <!-- Add additional space between publications -->
   <tr><td colspan="2" style="padding: 10px; background-color: transparent; border: none;"></td></tr>
   <!-- Repeat for each publication -->
