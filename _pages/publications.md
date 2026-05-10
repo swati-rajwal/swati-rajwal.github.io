@@ -42,7 +42,7 @@ author_profile: true
       <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b>, Selen Bozkurt, Jeanmarie PerroneAnne M McKenzie-Brown, Abeed Sarker</p>
       <p style="margin: 5px 0; color: #555;">Discover Artificial Intelligence, Springer, 2026</p>
       <div class="publication-buttons" style="margin-top: 10px;">
-        <a href="" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+        <a href="http://doi.org/10.1007/s44163-026-01417-7" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
       </div>
     </td>
     </tr>
@@ -81,7 +81,7 @@ author_profile: true
       <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b>, Grace Byun, Jinho D. Choi</p>
       <p style="margin: 5px 0; color: #555;">Information (ISSN 2078-2489), 2026</p>
       <div class="publication-buttons" style="margin-top: 10px;">
-        <a href="https://arxiv.org/abs/2511.10819" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+        <a href="https://doi.org/10.3390/info1010000" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
       </div>
     </td>
     </tr>
