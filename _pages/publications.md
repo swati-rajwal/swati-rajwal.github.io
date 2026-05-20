@@ -26,7 +26,7 @@ author_profile: true
       <div class="publication-buttons" style="margin-top: 10px;">
         <a href="" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
         <a href="https://ats2026.d365.events/education/abstracts/abstracts/e5f1a21d-87cc-4c3c-af2a-72379193ca22" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">American Thoracic Society</a>
-        <a href="https://doi.org/10.1093/ajrccm/aamag162.1273" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">American Journal of Respiratory & Critical Care Medicine</a>
+        <a href="https://doi.org/10.1093/ajrccm/aamag162.1273" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">American J. of Respiratory & Critical Care Medicine</a>
       </div>
     </td>
     </tr>
