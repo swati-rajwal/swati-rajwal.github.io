@@ -82,7 +82,7 @@ author_profile: true
       <p style="margin: 5px 0; color: #555;"><b>Swati Rajwal</b>, Grace Byun, Jinho D. Choi</p>
       <p style="margin: 5px 0; color: #555;">Information (ISSN 2078-2489), 2026</p>
       <div class="publication-buttons" style="margin-top: 10px;">
-        <a href="https://doi.org/10.3390/info1010000" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
+        <a href="https://doi.org/10.3390/info17050505" target="_blank" class="btn" style="text-decoration: none; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-right: 5px;">PAPER</a>
       </div>
     </td>
     </tr>
