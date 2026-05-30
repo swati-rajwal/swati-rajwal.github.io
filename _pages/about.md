@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a CS Ph.D. student at Emory University and advised by <a href="https://winshipcancer.emory.edu/profiles/sarker-abeed.php" target="_blank">Prof. Abeed Sarker</a>. I am AP - Graduate summer student at <a href="https://www.chip.org/" target="_blank">CHIP</a>, Boston Children’s Hospital / Harvard Medical School, mentored by <a href="https://maimunamajumder.com/" target="_blank">Prof. Maimuna Majumder</a>. Before Emory, I was a Researcher at <a href="https://www.c2d3.cam.ac.uk/directory/34851/swati-rajwal" target="_blank">Cambridge</a> University's <a href="https://cbl-website.onrender.com/" target="_blank">Computational and Biological Learning (CBL)</a> Lab with Prof. Mancini. I also worked as an RA at Saïd Business School (Oxford University) with <a href="https://enspire.ox.ac.uk/article/natalia-efremova-co-founder-of-deep-planet" target="_blank">Prof. Natalia Efremova</a>.
+I'm a CS Ph.D. Candidate at Emory University and advised by <a href="https://winshipcancer.emory.edu/profiles/sarker-abeed.php" target="_blank">Prof. Abeed Sarker</a>. I am currently a Graduate Research at Oak Ridge National Lab (<a href="https://education.ornl.gov/gro/" target="_blank">GRO</a>) fellow working with <a href="https://www.tirthankarghosal.com/home" target="_blank">Dr. Tirthankar Ghosal</a>. Previously, I was an AP - Graduate summer student at <a href="https://www.chip.org/" target="_blank">CHIP</a>, Boston Children’s Hospital / Harvard Medical School, mentored by <a href="https://maimunamajumder.com/" target="_blank">Prof. Maimuna Majumder</a>. Before Emory, I was a Researcher at <a href="https://www.c2d3.cam.ac.uk/directory/34851/swati-rajwal" target="_blank">Cambridge</a> University's <a href="https://cbl-website.onrender.com/" target="_blank">Computational and Biological Learning (CBL)</a> Lab with Prof. Mancini. I also worked as an RA at Saïd Business School (Oxford University) with <a href="https://enspire.ox.ac.uk/article/natalia-efremova-co-founder-of-deep-planet" target="_blank">Prof. Natalia Efremova</a>.
 
 My Master's at NSUT was supported by the AICTE PG Scholarship by Govt. of India and I received a <a href="https://www.linkedin.com/feed/update/urn:li:activity:7108505289506627584/" target="_blank">Vice-Chancellor's Gold Medal</a> for academic excellence. My industry experience ranges from being a Software Engineer at Eaton Corp. to an intern R&D Senior Analyst at Accenture Tech Lab.
 
@@ -21,6 +21,8 @@ My research interests are at the intersection of natural language processing (NL
 I'm a big country music fan and outside of work, you can find me <a href="https://www.youtube.com/watch?v=cgm9iGAupL0" target="_blank">jamming</a> with my friends or attending a <a href="https://www.youtube.com/watch?v=GfivcgiiRL0" target="_blank">musical concert</a>.
 
 # Latest News
+[```05/18/2026```] Joined Oak Ridge National Lab as GRO Fellow
+
 [```04/12/2026```] Represented Emory at 2026 <a href="https://www.aaas.org/programs/catalyzing-advocacy-in-science-and-engineering" target="_blank">American Association for the Advancement of Science (AAAS) CASE Workshop</a>
 
 [```04/06/2026```] Passed PhD Quals, advanced to Candidacy
