@@ -21,6 +21,10 @@ My research interests are at the intersection of natural language processing (NL
 I'm a big country music fan and outside of work, you can find me <a href="https://www.youtube.com/watch?v=cgm9iGAupL0" target="_blank">jamming</a> with my friends or attending a <a href="https://www.youtube.com/watch?v=GfivcgiiRL0" target="_blank">musical concert</a>.
 
 # Latest News
+[```09/16/2026```] Received student scholarship to the [2026 CMD-IT/ACM Richard Tapia Conference](https://cmd-it.org/tapia-conference/)
+
+[```08/30/2026```] Accepted to the inaugural [ACM AI Leadership Summit Doctoral Consortium](https://aisummit.acm.org/future-leaders) w/ scholarship
+
 [```05/18/2026```] Joined Oak Ridge National Lab as GRO Fellow
 
 [```04/12/2026```] Represented Emory at 2026 <a href="https://www.aaas.org/programs/catalyzing-advocacy-in-science-and-engineering" target="_blank">American Association for the Advancement of Science (AAAS) CASE Workshop</a>
