@@ -39,7 +39,7 @@ I'm a big country music fan and outside of work, you can find me <a href="https:
 
 [```08/16/2025```] Paper accepted at <a href="https://arxiv.org/abs/2508.06671" target="_blank">COLM 2025</a> with travel grant🍁
 
-[```06/09/2025```] Started summer research at Boston Children’s Hospital, aff. w/ Harvard Medical School
+[```06/09/2025```] Started summer research at <a href="https://labs.childrenshospital.org/swati-rajwal" target="_blank">Boston Children’s Hospital, aff. w/ Harvard Medical School</a>
 
 [```06/06/2025```] AMIA 2025 acceptance: one as <a href="https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/20563" target="_blank">presenter</a> and other as <a href="https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/18831" target="_blank">co-author</a>🌟
 
