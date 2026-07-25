@@ -19,11 +19,12 @@ author_profile: true
 
 <h3>Magazine articles</h3>
 
-1. What the AAAS CASE Workshop Taught Me About Science and Policy: <a href="https://awis.org/resource/what-the-aaas-case-workshop-taught-me-about-science-and-policy/" target="_blank">Association for Women in Science (AWIS)</a>
-2. Bridging Brains and Bytes: A Computer Scientist's Role in Neuroscience: <a href="https://www.womeninneuroscienceuk.org/post/bridging-brains-and-bytes-a-computer-scientist-s-role-in-neuroscience" target="_blank">Women in Neuroscience, UK</a>
-3. The do's & don'ts of writing a research request email: <a href="https://dl.acm.org/doi/abs/10.1145/3538535" target="_blank">Article in XRDS ACM</a>
-4. The Truth About Multitasking in Humans: Shattering the illusion of parallelism: <a href="https://ieeexplore.ieee.org/abstract/document/9770037" target="_blank">Article in IEEE Women in Engineering</a>
-5. Connecting with Your Future Professor: A Practical Guide. <a href="http://dx.doi.org/10.1145/3729506" target="_blank">ACM XRDS</a>
+1. Second Chances: What I Learned in Reapplying for a PhD <a href="https://magazine.awis.org/summer-2026/page-20" target="_blank">Association for Women in Science (AWIS)</a>
+2. What the AAAS CASE Workshop Taught Me About Science and Policy: <a href="https://awis.org/resource/what-the-aaas-case-workshop-taught-me-about-science-and-policy/" target="_blank">Association for Women in Science (AWIS)</a>
+3. Bridging Brains and Bytes: A Computer Scientist's Role in Neuroscience: <a href="https://www.womeninneuroscienceuk.org/post/bridging-brains-and-bytes-a-computer-scientist-s-role-in-neuroscience" target="_blank">Women in Neuroscience, UK</a>
+4. The do's & don'ts of writing a research request email: <a href="https://dl.acm.org/doi/abs/10.1145/3538535" target="_blank">Article in XRDS ACM</a>
+5. The Truth About Multitasking in Humans: Shattering the illusion of parallelism: <a href="https://ieeexplore.ieee.org/abstract/document/9770037" target="_blank">Article in IEEE Women in Engineering</a>
+6. Connecting with Your Future Professor: A Practical Guide. <a href="http://dx.doi.org/10.1145/3729506" target="_blank">ACM XRDS</a>
 
 <h3>Virtual speaking</h3>
 <div class="videos" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px;">
