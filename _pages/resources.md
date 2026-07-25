@@ -19,7 +19,7 @@ author_profile: true
 
 <h3>Magazine articles</h3>
 
-1. Second Chances: What I Learned in Reapplying for a PhD <a href="https://magazine.awis.org/summer-2026/page-20" target="_blank">Association for Women in Science (AWIS)</a>
+1. Second Chances: What I Learned in Reapplying for a PhD <a href="https://magazine.awis.org/summer-2026/page-22" target="_blank">Association for Women in Science (AWIS)</a>
 2. What the AAAS CASE Workshop Taught Me About Science and Policy: <a href="https://awis.org/resource/what-the-aaas-case-workshop-taught-me-about-science-and-policy/" target="_blank">Association for Women in Science (AWIS)</a>
 3. Bridging Brains and Bytes: A Computer Scientist's Role in Neuroscience: <a href="https://www.womeninneuroscienceuk.org/post/bridging-brains-and-bytes-a-computer-scientist-s-role-in-neuroscience" target="_blank">Women in Neuroscience, UK</a>
 4. The do's & don'ts of writing a research request email: <a href="https://dl.acm.org/doi/abs/10.1145/3538535" target="_blank">Article in XRDS ACM</a>
