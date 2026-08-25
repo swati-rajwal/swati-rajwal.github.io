@@ -25,7 +25,7 @@ I'm a big country music fan and outside of work, you can find me <a href="https:
 
 [```08/30/2026```] Accepted to the inaugural <a href="https://aisummit.acm.org/future-leaders" target="_blank">ACM AI Leadership Summit Doctoral Consortium</a> w/ scholarship
 
-[```08/18/2026```] **Best Talk Award** at <a href="https://softwaredataexpo.ornl.gov/" target="_blank">Oak Ridge National Lab</a> - Software & Data Expo 2026🏆
+[```08/18/2026```] **Best Talk Award** at <a href="https://www.linkedin.com/posts/swatirajwal_ornl-ai-scientificai-ugcPost-7498116017194156032-fIkT/" target="_blank">Oak Ridge National Lab</a> - Software & Data Expo 2026🏆
 
 [```05/18/2026```] Joined **Oak Ridge National Lab** as GRO Fellow
 
