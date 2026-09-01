@@ -21,7 +21,11 @@ My research interests are at the intersection of natural language processing (NL
 I'm a big country music fan and outside of work, you can find me <a href="https://www.youtube.com/watch?v=cgm9iGAupL0" target="_blank">jamming</a> with my friends or attending a <a href="https://www.youtube.com/watch?v=GfivcgiiRL0" target="_blank">musical concert</a>.
 
 # Latest News
-[```09/16/2026```] Received student scholarship to the <a href="https://cmd-it.org/tapia-conference/" target="_blank">2026 CMD-IT/ACM Richard Tapia Conference</a>
+[```09/16/2026```] Received student scholarship to the <a href="https://cmd-it.org/tapia-conference/" target="_blank">2026 CMD-IT/ACM Richard Tapia Conference</a>🎊
+
+[```09/10/2026```] ORNL work (SCATTER tool) accepted at JCDL 2026. See you in Texas🎉
+
+[```09/01/2026```] Selected for <a href="https://www.anthropic.com/news/rare-disease-research-grants" target="_blank">Anthropic's AI for Science rare disease research</a> program🌟
 
 [```08/30/2026```] Accepted to the inaugural <a href="https://aisummit.acm.org/future-leaders" target="_blank">ACM AI Leadership Summit Doctoral Consortium</a> w/ scholarship
 
