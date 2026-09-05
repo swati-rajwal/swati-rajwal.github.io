@@ -23,7 +23,7 @@ I'm a big country music fan and outside of work, you can find me <a href="https:
 # Latest News
 [```09/16/2026```] Received student scholarship to the <a href="https://cmd-it.org/tapia-conference/" target="_blank">2026 CMD-IT/ACM Richard Tapia Conference</a>🎊
 
-[```09/10/2026```] ORNL work (AI for Science tool) and Doctoral Consortium papers <a href="https://2026.jcdl.org/accepted-contributions/" target="_blank">accepted at JCDL 2026</a>. See you in Texas🎉
+[```09/10/2026```] My work at ORNL - AI4Science tool (doi = <a href="https://doi.org/10.1145/3805696.3846506" target="_blank">10.1145/3805696.3846506</a>) and Doctoral Consortium paper (doi = <a href="" target="_blank">DOI</a>) accepted at <a href="https://2026.jcdl.org/accepted-contributions/" target="_blank">JCDL 2026</a>. See you in Texas🎉
 
 [```09/01/2026```] Selected for <a href="https://www.anthropic.com/news/rare-disease-research-grants" target="_blank">Anthropic's AI for Science rare disease research</a> program🌟
 
