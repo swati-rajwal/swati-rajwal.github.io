@@ -13,6 +13,7 @@ author_profile: true
    * 2024: <a href="https://swati-rajwal.github.io/files/2024_jamia_reviewer.pdf" target="_blank">JAMIA</a>, <a href="https://sites.google.com/wimlworkshop.org/wiml-2024/program?authuser=0#h.1dzx6aq157xv" target="_blank">WiML NeurIPS (Canada)</a>, MEDIQA-CORR at ClinicalNLP (NAACL)
    * Grace Hopper Celebration 2022
 5. <span class="label label-success" style="background-color: #007bff; display: inline; padding: .2em .6em .3em; font-size: 75%; font-weight: bold; line-height: 1; color: #ffffff; text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;">Outreach & Ambassador Roles</span>
+   * <a href="https://amia.org/webinar-library/career-panel" target="_blank">Moderator at AMIA NLP Career Panel 2026</a>
    * <a href="https://amia.org/community/working-groups/natural-language-processing" target="_blank">AMIA NLP Working Group</a> Member-at-Large Student Representative 2026-27
    * NSF AI Institute for Societal Decision Making <a href="https://www.cmu.edu/ai-sdm/education/graduate/students/" target="_blank">Student Leadership Council (SLC)</a>
    * <a href="https://www.widsworldwide.org/get-inspired/blog/people/swati-rajwal/" target="_blank">Women in Data Science 2024 Ambassador</a>
