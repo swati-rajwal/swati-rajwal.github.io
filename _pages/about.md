@@ -21,7 +21,7 @@ My research interests are at the intersection of natural language processing (NL
 I'm a big country music fan and outside of work, you can find me <a href="https://www.youtube.com/watch?v=cgm9iGAupL0" target="_blank">jamming</a> with my friends or attending a <a href="https://www.youtube.com/watch?v=GfivcgiiRL0" target="_blank">musical concert</a>.
 
 # Latest News
-[```10/13/2026```] Received <a href="https://2026.jcdl.org/nsf-doctoral-consortium-travel-award/" target="_blank">2026 NSF DC Travel Award to JCDL Conference</a>✈️
+[```10/13/2026```] Received <a href="https://2026.jcdl.org/awards/" target="_blank">2026 NSF DC Travel Award to JCDL Conference</a>✈️
 
 [```10/13/2026```] Two papers (ORNL work SCATTER & Doctoral Consortium) accepted at <a href="https://2026.jcdl.org/accepted-contributions/" target="_blank">JCDL 2026</a>. See you in Texas🎉
 
